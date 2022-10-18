@@ -3,7 +3,7 @@
 
 .ve-image wc:Heaney_Family_1911.jpg
 
-.ve-image wc:Asiyab_badi.jpg
-
-.ve-image jstor:community.28364658
+.ve-image compare=curtain
+    * wc:Asiyab_badi.jpg
+    * jstor:community.28364658
 
