@@ -6,4 +6,3 @@
 .ve-image compare=sync
     * wc:Asiyab_badi.jpg
     * jstor:community.28364658
-
