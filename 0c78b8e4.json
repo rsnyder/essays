@@ -18,7 +18,7 @@
       "id": "/rsnyder/essays/0c78b8e4"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/rsnyder/essays0c78b8e4//annotation/rsnyder/essays0c78b8e4/2d14ecc2"
+    "id": "/annotation/rsnyder/essays0c78b8e4//annotation/rsnyder/essays0c78b8e4//annotation/rsnyder/essays0c78b8e4/2d14ecc2"
   },
   {
     "type": "Annotation",
@@ -39,7 +39,7 @@
       "id": "/rsnyder/essays/0c78b8e4"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "/annotation/rsnyder/essays0c78b8e4/6d221e65"
+    "id": "/annotation/rsnyder/essays0c78b8e4//annotation/rsnyder/essays0c78b8e4/6d221e65"
   },
   {
     "type": "Annotation",
@@ -57,9 +57,30 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:3537.781005859375,912.6243896484375,663.118896484375,985.4166259765625"
       },
+      "id": "/rsnyder/essays/0c78b8e4"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "/annotation/rsnyder/essays0c78b8e4/468aaa0c"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Another anno",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/c2fee10981c3d6b7848cb3a56fae43a7.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1458.1043701171875,432.7526550292969,725.2027587890625,1838.4075012207031"
+      },
       "id": "0c78b8e4"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "468aaa0c"
+    "id": "b0a23c50"
   }
 ]
