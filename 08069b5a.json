@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Merkeet head",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/e117538a2a33ace795cfdb8f9eeadd5d.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1037.817138671875,1341.1717529296875,1238.380126953125,789.3260498046875"
+      },
+      "id": "08069b5a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1d7869a4"
+  }
+]
