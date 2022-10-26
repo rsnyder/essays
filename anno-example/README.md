@@ -1,8 +1,12 @@
-# Annotations Example
+.ve-header "Annotations Example" wc:Zelfportret_met_strohoed_-_s0164V1962_-_Van_Gogh_Museum.jpg "Farmhouse in Provence" pct:3,23,80,20 center sticky
+
+.ve-add-hypothesis
+
+# Farmhouse in Provence
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer. Ornare suspendisse sed nisi lacus sed viverra. Arcu dui vivamus arcu felis bibendum. At in tellus integer feugiat scelerisque. Augue interdum velit euismod in pellentesque massa. Condimentum lacinia quis vel eros donec ac odio tempor. Urna condimentum mattis pellentesque id nibh tortor. Suspendisse in est ante in nibh mauris cursus mattis molestie. Venenatis cras sed felis eget. Neque viverra justo nec ultrices dui sapien eget. Et malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Pellentesque adipiscing commodo elit at imperdiet. Ornare suspendisse sed nisi lacus sed viverra tellus. Enim eu turpis egestas pretium aenean pharetra. Feugiat in fermentum posuere urna nec. Risus viverra adipiscing at in tellus integer. Venenatis cras sed felis eget velit aliquet. Enim facilisis gravida neque convallis a cras. Consectetur libero id faucibus nisl tincidunt eget.
 
-.ve-image wc:Farmhouse_in_Provence,_1888,_Vincent_van_Gogh,C_NGA.jpg width=80%
+.ve-image wc:Farmhouse_in_Provence,_1888,_Vincent_van_Gogh,_NGA.jpg width=80%
 
 Commodo nulla facilisi nullam vehicula ipsum. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Urna condimentum mattis pellentesque id nibh tortor id aliquet. Ut morbi tincidunt augue interdum velit euismod in pellentesque massa. Integer malesuada nunc vel risus commodo. Ultricies mi quis hendrerit dolor magna. Consequat interdum varius sit amet mattis. Aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat. Vestibulum lorem sed risus ultricies tristique nulla. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Faucibus nisl tincidunt eget nullam non nisi. Arcu risus quis varius quam quisque. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus. Consectetur a erat nam at lectus urna. Amet nisl suscipit adipiscing bibendum. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus.
 
