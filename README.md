@@ -1,11 +1,19 @@
-.ve-header "Ron Snyder" gh:rsnyder/media/italy/amalfi-coast/Amalfi__1 contact=ron@snyderjr.com sticky
+.ve-header "Ron's Home" gh:rsnyder/media/italy/amalfi-coast/Amalfi__1 contact=ron@snyderjr.com sticky
      - [About](/about)
      - [Contact me](/contact)
 
 # rsnyder home page
 
-.ve-image
-    - gh:rsnyder/media/italy/amalfi-coast/Amalfi__4
-    - gh:rsnyder/media/italy/amalfi-coast/Hiking_above_Fiordo_di_Furore
 
-.ve-video https://commons.wikimedia.org/wiki/File:The_Love_Gamble_(1925).webm
+.ve-video https://www.youtube.com/watch?v=i7knB3VtAqY right sticky
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec pretium vulputate sapien nec sagittis aliquam malesuada. Feugiat vivamus at augue eget arcu dictum. Pulvinar proin gravida hendrerit lectus. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Arcu cursus vitae congue mauris rhoncus aenean vel. Gravida rutrum quisque non tellus orci ac auctor augue. Massa enim nec dui nunc. Mattis pellentesque id nibh tortor id aliquet lectus proin nibh. Diam quis enim lobortis scelerisque. Ut porttitor leo a diam sollicitudin tempor id eu. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Quis viverra nibh cras pulvinar. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Aliquet risus feugiat in ante metus. Id venenatis a condimentum vitae sapien pellentesque. Tincidunt vitae semper quis lectus nulla at volutpat diam. Gravida neque convallis a cras. Etiam non quam lacus suspendisse faucibus. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus.
+
+Nibh nisl condimentum id venenatis a condimentum vitae sapien. Diam maecenas sed enim ut sem viverra aliquet. Dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Proin libero nunc consequat interdum varius sit amet mattis. Feugiat vivamus at augue eget arcu dictum varius. Aliquet enim tortor at auctor urna nunc id cursus. Amet consectetur adipiscing elit pellentesque. Vel facilisis volutpat est velit egestas. Arcu cursus vitae congue mauris rhoncus aenean vel elit. Mauris pellentesque pulvinar pellentesque habitant. Pulvinar sapien et ligula ullamcorper malesuada proin. Leo in vitae turpis massa sed elementum tempus egestas. Pretium quam vulputate dignissim suspendisse in est ante in. Fusce id velit ut tortor pretium viverra.
+{data-start=10}
+
+Amet venenatis urna cursus eget nunc scelerisque viverra. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit amet. Nulla aliquet porttitor lacus luctus. Aliquet bibendum enim facilisis gravida. Ac tincidunt vitae semper quis. Orci a scelerisque purus semper eget duis at. Sagittis vitae et leo duis. Arcu dictum varius duis at consectetur lorem donec massa. Nunc faucibus a pellentesque sit amet porttitor eget dolor morbi. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. Quis risus sed vulputate odio ut enim. Volutpat blandit aliquam etiam erat velit scelerisque.
+
+Blandit turpis cursus in hac habitasse platea dictumst quisque sagittis. Viverra adipiscing at in tellus integer feugiat scelerisque. Commodo ullamcorper a lacus vestibulum sed arcu. Imperdiet massa tincidunt nunc pulvinar sapien et. Rhoncus dolor purus non enim. Tellus orci ac auctor augue. Turpis tincidunt id aliquet risus feugiat in ante metus dictum. Diam ut venenatis tellus in metus vulputate eu scelerisque. Et netus et malesuada fames. Consectetur adipiscing elit ut aliquam purus. Amet mauris commodo quis imperdiet.
+
+In mollis nunc sed id semper. Donec adipiscing tristique risus nec feugiat in fermentum. Varius duis at consectetur lorem donec massa sapien faucibus. Odio pellentesque diam volutpat commodo sed egestas. Laoreet sit amet cursus sit amet dictum sit amet. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Facilisis volutpat est velit egestas dui id ornare. Sed arcu non odio euismod. Tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Enim eu turpis egestas pretium aenean.
