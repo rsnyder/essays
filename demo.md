@@ -1,8 +1,0 @@
-# Demo
-.ve-image wc:Jabirú_africano_(Ephippiorhynchus_senegalensis),_delta_del_Okavango,_Botsuana,_2018-07-31,_DD_11.jpg
-
-.ve-image wc:Heaney_Family_1911.jpg
-
-.ve-image compare=sync
-    * wc:Asiyab_badi.jpg
-    * jstor:community.28364658
