@@ -1,6 +1,6 @@
 # Tabs Demo
 
-## Tabs {.tabs style=height:100vh}
+## Tabs {.tabs}
 
 ### Text
 
