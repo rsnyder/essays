@@ -1,6 +1,6 @@
 # Tabs Demo
 
-## Anything {.tabs style=height:100vh}
+## Tabs {.tabs style=height:100vh}
 
 ### Text
 
@@ -8,11 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Map
 
-.ve-map 
+.ve-map
 
 ### Image
 
 .ve-image gh:rsnyder/media/michigan-up/Arched_Rock
-
-
-.ve-footer sticky
