@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Crossout",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://edisondigital.rutgers.edu/iiif/2/246621",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:461.09686279296875,721.3116455078125,366.56195068359375,88.93072509765625"
+      },
+      "id": "6770cba5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1c87d914"
+  }
+]
