@@ -1,3 +1,6 @@
+.ve-header "Edison Papers Testing" contact=ron@snyderjr.com
+    - [Contact me](/contact)
+
 # Edison Papers Demo
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada pellentesque elit eget gravida cum sociis natoque penatibus. Porttitor eget dolor morbi non arcu. Curabitur vitae nunc sed velit dignissim. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Pellentesque massa placerat duis ultricies lacus sed turpis. In aliquam sem fringilla ut morbi. Parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Non diam phasellus vestibulum lorem sed risus. Vel fringilla est ullamcorper eget. Maecenas volutpat blandit aliquam etiam erat velit scelerisque. Eget arcu dictum varius duis at. Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Nunc mattis enim ut tellus elementum sagittis vitae et. Sit amet volutpat consequat mauris nunc congue nisi vitae suscipit. Porta nibh venenatis cras sed felis eget. At in tellus integer feugiat scelerisque. Eget velit aliquet sagittis id. Et odio pellentesque diam volutpat commodo.
