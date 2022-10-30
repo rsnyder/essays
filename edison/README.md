@@ -1,4 +1,4 @@
-.ve-header "Edison Papers Testing" contact=ron@snyderjr.com
+.ve-header "Edison Papers Testing" background="#444" contact=ron@snyderjr.com
     - [Contact me](/contact)
 
 # Edison Papers Demo
