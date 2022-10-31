@@ -3,6 +3,11 @@
 
 # My Essay
 
+## What is Juncture
+
+- A tool for digital storytelling
+- A set of free-to-use web services and authoring tools for creating and sharing interactive visual essays.  Visual essays are  from simple text files.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Volutpat consequat mauris nunc congue nisi vitae suscipit tellus. Consequat interdum varius sit amet mattis. Dui vivamus arcu felis bibendum ut tristique et. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Consectetur adipiscing elit duis tristique sollicitudin. Arcu non odio euismod lacinia at quis. Sed ullamcorper morbi tincidunt ornare massa. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Feugiat pretium nibh ipsum consequat nisl vel.
 
 .ve-image gh:rsnyder/media/michigan-up/Keweenaw right
