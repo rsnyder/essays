@@ -15,9 +15,30 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:246.0531005859375,583.8845825195312,459.34832763671875,151.68511962890625"
       },
+      "id": "/rsnyder/essays/e45b582f"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "/annotation/rsnyder/essayse45b582f/cf56a435"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Another test",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://edisondigital.rutgers.edu/iiif/2/246624",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:395.412109375,780.0508422851562,374.86077880859375,145.43731689453125"
+      },
       "id": "e45b582f"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "cf56a435"
+    "id": "1a552f13"
   }
 ]
