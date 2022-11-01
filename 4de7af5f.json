@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "St Peters?",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.jstor.org/iiif/2019/03/11/20/6f8e4681-7512-482d-b7ac-fcc943431c51_deflate.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2422.28955078125,1174.2833251953125,768.156982421875,766.781494140625"
+      },
+      "id": "4de7af5f"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "75d2b42e"
+  }
+]
