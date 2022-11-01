@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Something about this...",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.jstor.org/iiif/2019/03/08/20/b7e23776-fc07-4c55-81af-b9e2e3f0a951_deflate.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2874.51904296875,998.584228515625,339.8447265625,322.29248046875"
+      },
+      "id": "99ed7399"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f43167ea"
+  }
+]
