@@ -1,5 +1,7 @@
 .ve-header "Essay Title" jstor:community.24621491 sticky
 
+.ve-add-hypothesis
+
 # Farmyard
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Id volutpat lacus laoreet non curabitur gravida arcu ac. ==Phasellus faucibus=={2690,848,265,198} scelerisque eleifend donec pretium vulputate sapien nec. In arcu cursus euismod quis viverra nibh cras pulvinar. Aliquam faucibus purus in massa. Id diam maecenas ultricies mi eget. Eget nunc lobortis mattis aliquam faucibus. Nisl suscipit adipiscing bibendum est ultricies. Integer eget aliquet nibh praesent. Eget arcu dictum varius duis at consectetur lorem donec. Morbi tincidunt ornare massa eget. Quis risus sed vulputate odio ut enim. Sit amet mattis vulputate enim. Aliquam faucibus purus in massa tempor nec feugiat nisl pretium. Justo laoreet sit amet cursus sit amet dictum. Donec adipiscing tristique risus nec feugiat. Purus in massa tempor nec feugiat. Commodo nulla facilisi nullam vehicula. Ac tincidunt vitae semper quis lectus nulla.
