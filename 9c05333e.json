@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Figure at top of stairs",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.jstor.org/iiif/2017/01/26/14/1cdcc0f7-97cb-4935-b136-b7960a7bcc7b_deflate.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1638.6192626953125,1482.91552734375,138.1749267578125,202.6177978515625"
+      },
+      "id": "9c05333e"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a512719d"
+  }
+]
