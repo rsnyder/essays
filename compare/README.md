@@ -2,13 +2,6 @@
 
 ## Option 1 - side by side
 
-.ve-image jstor:community.18335881
-
-.ve-image jstor:community.18611709 pct:25,35,50,50
-
-## Option 2 - Compare viewer {.clear}
-
-.ve-image compare curtain full
-    - jstor:community.18600328
-    - jstor:community.18615586
-    - jstor:community.18620220
+.ve-image compare sync full
+    - wc:Amber_Mountain_chameleon_(Calumma_amber)_male_Montagne_d’Ambre_2.jpg
+    - wc:Suricatos_(Suricata_suricatta),_parque_nacional_Makgadikgadi_Pans,_Botsuana,_2018-07-30,_DD_26.jpg
