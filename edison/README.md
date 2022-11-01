@@ -1,4 +1,4 @@
-.ve-header "Essay Title" wc:Edison_and_phonograph_edit2.jpg options=pct:0,10,100,50
+.ve-header "Edison Papers Demo" wc:Edison_and_phonograph_edit2.jpg options=pct:0,10,100,50
 
 # Edison Papers Demo
 
