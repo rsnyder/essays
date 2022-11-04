@@ -1,4 +1,4 @@
-.ve-component image=wc:Chiang_Kai-shek_memorial_2_amk.jpg right style=position:sticky;top:0 height=100vh width=50vh
+.ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg right
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla est ullamcorper. Condimentum mattis pellentesque id nibh. Nunc eget lorem dolor sed viverra. Facilisis gravida neque convallis a cras semper. At tempor commodo ullamcorper a lacus vestibulum. Non arcu risus quis varius quam quisque. Sit amet risus nullam eget felis. Eu non diam phasellus vestibulum lorem. Quam vulputate dignissim suspendisse in est. Nullam ac tortor vitae purus faucibus ornare suspendisse sed nisi. Sagittis eu volutpat odio facilisis mauris. A pellentesque sit amet porttitor eget dolor. Tincidunt id aliquet risus feugiat.
 
