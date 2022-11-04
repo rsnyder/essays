@@ -2,8 +2,8 @@
 
 ### {.right .sticky}
 
-.ve-image wc:AmalfiCoast11.jpg width=100%
-.ve-image wc:AmalfiCoast11.jpg width=100%
+.ve-image wc:AmalfiCoast11.jpg
+.ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg
 
 ### {.noclear}
 
