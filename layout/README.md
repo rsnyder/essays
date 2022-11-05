@@ -14,11 +14,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Tabbed
 
-## {.tabs style=height:600px}
+## {.tabs style=height:625px}
 
 ### Map
 
-.ve-component map=42.2795,-83.74665 full
+.ve-map 42.2795,-83.74665 full
 
 ### Image
 
@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Image - Portrait Orientation
 
-.ve-component image=wc:Chiang_Kai-shek_memorial_2_amk.jpg sticky drop-shadow
+.ve-image wc:Chiang_Kai-shek_memorial_2_amk.jpg sticky
 
 Iaculis at erat pellentesque adipiscing. Hendrerit gravida rutrum quisque non tellus orci. Sed enim ut sem viverra aliquet. Est placerat in egestas erat imperdiet sed euismod nisi porta. Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. At tempor commodo ullamcorper a lacus vestibulum. A lacus vestibulum sed arcu non. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Senectus et netus et malesuada fames ac turpis egestas. Ultrices sagittis orci a scelerisque purus. Massa placerat duis ultricies lacus sed turpis tincidunt. Vulputate enim nulla aliquet porttitor lacus. Commodo ullamcorper a lacus vestibulum sed.
 
@@ -50,7 +50,7 @@ Enim praesent elementum facilisis leo vel fringilla. Bibendum enim facilisis gra
 
 ## Image - Landscape Orientation
 
-.ve-component image=wc:TR_Yedigöller_asv2021-10_img02.jpg sticky
+.ve-image wc:TR_Yedigöller_asv2021-10_img02.jpg sticky
 
 Porttitor massa id neque aliquam vestibulum. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Odio aenean sed adipiscing diam donec adipiscing tristique risus. Placerat vestibulum lectus mauris ultrices eros in cursus turpis massa. Sem et tortor consequat id porta. Vitae sapien pellentesque habitant morbi tristique. Ullamcorper a lacus vestibulum sed arcu. Magna fringilla urna porttitor rhoncus dolor purus non. Scelerisque fermentum dui faucibus in ornare. Risus commodo viverra maecenas accumsan lacus. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Nisl tincidunt eget nullam non nisi est. Neque gravida in fermentum et sollicitudin ac. Sodales ut eu sem integer. Augue interdum velit euismod in pellentesque. Tortor consequat id porta nibh venenatis cras sed. Vel elit scelerisque mauris pellentesque pulvinar.
 
