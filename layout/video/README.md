@@ -2,13 +2,13 @@
 
 # YouTube
 
-.ve-video https://www.youtube.com/watch?v=i7knB3VtAqY
+.ve-video https://www.youtube.com/watch?v=i7knB3VtAqY sticky
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla est ullamcorper. Condimentum mattis pellentesque id nibh. Nunc eget lorem dolor sed viverra. Facilisis gravida neque convallis a cras semper. At tempor commodo ullamcorper a lacus vestibulum. Non arcu risus quis varius quam quisque. Sit amet risus nullam eget felis. Eu non diam phasellus vestibulum lorem. Quam vulputate dignissim suspendisse in est. Nullam ac tortor vitae purus faucibus ornare suspendisse sed nisi. Sagittis eu volutpat odio facilisis mauris. A pellentesque sit amet porttitor eget dolor. Tincidunt id aliquet risus feugiat.
 
 # Vimeo
 
-.ve-video https://vimeo.com/737854276
+.ve-video https://vimeo.com/737854276 sticky
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla est ullamcorper. Condimentum mattis pellentesque id nibh. Nunc eget lorem dolor sed viverra. Facilisis gravida neque convallis a cras semper. At tempor commodo ullamcorper a lacus vestibulum. Non arcu risus quis varius quam quisque. Sit amet risus nullam eget felis. Eu non diam phasellus vestibulum lorem. Quam vulputate dignissim suspendisse in est. Nullam ac tortor vitae purus faucibus ornare suspendisse sed nisi. Sagittis eu volutpat odio facilisis mauris. A pellentesque sit amet porttitor eget dolor. Tincidunt id aliquet risus feugiat.
 
