@@ -4,7 +4,7 @@ section {clear: both;}
 
 # Images
 
-## Compare 
+## Grid 
 
 .ve-image grid full cards
     - wc:Vincent_van_Gogh’s_famous_painting,_digitally_enhanced_by_rawpixel-com_43.jpg
