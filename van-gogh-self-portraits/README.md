@@ -2,9 +2,7 @@
 
  ##
  
-.ve-image compare left height=360px
-    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40/full/0
-    - wc:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg
+
 
 # Portraits of Vincent van Gogh
 
@@ -126,8 +124,8 @@ Note the painter shows his right ear, if painted via a mirror, while Van Gogh cu
 ### Photo and portrait comparisons
 
 .ve-image compare left height=360px
-    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40
-    - wc:Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg pct:0,12,90,85
+    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40/full/!0
+    - wc:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg pct:0,11,95,100
     
 .ve-image compare right height=360px
     - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40
