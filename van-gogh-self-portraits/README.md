@@ -2,7 +2,11 @@
 
  ##
  
-.ve-image compare full
+.ve-image compare left height=360px
+    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40
+    - wc:Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg pct:0,12,90,85
+    
+.ve-image compare right height=360px
     - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40
     - wc:Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg pct:0,12,90,85
 
