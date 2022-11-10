@@ -1,5 +1,11 @@
 .ve-header "Portraits of Vincent van Gogh" wc:Vincent_Van_Gogh_0013.jpg options=pct:0,20,100,50
 
+ ##
+ 
+.ve-image compare full
+    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40
+    - wc:Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg pct:0,12,90,85
+
 # Portraits of Vincent van Gogh
 
 .ve-image wc:Vincent_Willem_van_Gogh_102.jpg
