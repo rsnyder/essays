@@ -1,4 +1,4 @@
-.ve-header "Portraits of Vincent van Gogh" wc:Vincent_van_Gogh_-_Wheatfield_with_crows_-_Google_Art_Project.jpg
+.ve-header "Portraits of Vincent van Gogh" wc:Vincent_Van_Gogh_0013.jpg options=pct:0,20,100,50
 
 # Portraits of Vincent van Gogh
 
