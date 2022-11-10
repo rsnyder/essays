@@ -3,12 +3,8 @@
  ##
  
 .ve-image compare left height=360px
-    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40
-    - wc:Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg pct:0,12,90,85
-    
-.ve-image compare right height=360px
-    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40
-    - wc:Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg pct:0,12,90,85
+    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40/full/0
+    - wc:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg
 
 # Portraits of Vincent van Gogh
 
@@ -113,7 +109,7 @@ Meanwhile, the authenticity of a second "self-portrait" has been challenged:
 The Selfportrait, 'à l'oreille mutilée', acquired in 1910 for the Nasjonalgalleriet, Oslo, had been unanimously rejected by scholars and technical researchers for decades, until provenance research by staff members reported pro domo the contrary. On January 20, 2020 the results of research into this painting were published, and the conclusion was that this is a real Van Gogh painting, painted in the time that he was in a mental institution.
 Note the painter shows his right ear, if painted via a mirror, while Van Gogh cut his left ear.
 
-##
+## Portraits of Vincent van Gogh by other artists
 
 .ve-image grid
     - wc:Vincent_van_Gogh_-_s0273V1962_-_Van_Gogh_Museum.jpg
@@ -126,3 +122,13 @@ Note the painter shows his right ear, if painted via a mirror, while Van Gogh cu
     - wc:Theo_van_Gogh_in_1873.jpg
     - wc:Vincent_van_Gogh_January_1873.jpeg
     - wc:Vincent_van_Gogh_photo.jpg
+
+### Photo and portrait comparisons
+
+.ve-image compare left height=360px
+    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40
+    - wc:Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg pct:0,12,90,85
+    
+.ve-image compare right height=360px
+    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40
+    - wc:Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg pct:0,12,90,85
