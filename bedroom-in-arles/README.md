@@ -17,6 +17,12 @@ Van Gogh's own title for this composition was simply ***The Bedroom***. There ar
 
 The painting depicts van Gogh's bedroom at 2, Place Lamartine in Arles, Bouches-du-Rhône, France, known as the Yellow House. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right.[^1]
 
+The house was the right wing of 2 Place Lamartine, Arles, France, where, on May 1, 1888, van Gogh rented four rooms. He occupied two large ones on the ground floor to serve as an atelier (workshop) and kitchen, and on the first floor, two smaller ones facing Place Lamartine. The window on the first floor nearest the corner with both shutters open is that of van Gogh's guest room, where Paul Gauguin lived for nine weeks from late October 1888. Behind the next window, with shutters nearly closed, is van Gogh's bedroom. The two small rooms at the rear were rented by van Gogh at a later time.
+
+Van Gogh indicated that the restaurant where he used to have his meals was in the building painted pink, close to the left edge of the painting (28 Place Lamartine). It was run by Widow Venissac, who was also van Gogh's landlady, and who owned several of the other buildings depicted. To the right of the Yellow House, the Avenue Montmajour runs down to the two railway bridges. The first line (with a train just passing) served the local connection to Lunel, which is on the opposite (that is, right) bank of river Rhône. The other line was owned by the P.-L.-M. Railway Company (Paris Lyon Méditerranée). In the left foreground is an indication of the corner of the pedestrian walk which surrounded one of the public gardens on Place Lamartine. The ditch running up Avenue Montmajour from the left towards the bridges served the gas pipe, which allowed van Gogh a little later to have gaslight installed in his atelier.
+
+The building was severely damaged in a bombing raid by the Allies on June 25, 1944, and was later demolished.
+
 ## First Version
 
 ### {.right style=width:50%}
@@ -38,11 +44,24 @@ This version has on the wall to the right miniatures of van Gogh's portraits of 
 
 #### _The Poet_
 
+Eugène Boch (1 September 1855 – 3 January 1941) was a Belgian painter, born in Saint-Vaast, La Louvière, Hainaut. He was the younger brother of Anna Boch, a founding member of Les XX.
+In 1888, Boch was introduced by Dodge MacKnight to Vincent van Gogh.
+
+In 1892 he settled in Monthyon (Seine-and-Marne), not far from Paris. In 1909, he married Anne-Marie Léonie Crusfond (?–1933), and in 1910 they moved to their recently-built chalet "La Grimpette", where both lived out their lives.
+
+Boch supported poor artists of talent, including Émile Bernard, whom he met at the Atelier Cormon, and Paul Gauguin. He also exchanged works with many artists, including by van Gogh, and little by little, grew an important collection of contemporary art. Boch and his sister Anna spent a large part of the family fortune promoting other artists. They bought pictures from many leading contemporaries of their time, the majority of whom were also their friends.
+
+Boch received van Gogh's portrait of him, The Poet, from Johanna van Gogh-Bonger, van Gogh's sister in law. On Boch's death in 1941, he bequeathed the painting to the Louvre. Today the painting can be seen in the Paris Musée d'Orsay.
+
 .ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg options=18254,1,3753,2976 left
 
 .ve-image wc:Van_Gogh_-_Bildnis_des_belgischen_Dichters_Eugéne_Boch.jpeg right height=360px width=45%
 
 #### _The Lover_
+
+Portrait of Paul-Eugène Milliet is a painting by the Dutch painter Vincent van Gogh, produced in September 1888 in Arles.
+
+Paul-Eugène Milliet was a second lieutenant in the 3rd regiment of Zouaves which had its quarters at the Caserne Calvin located on boulevard des Lices in Arles. Vincent Van Gogh gave him drawing lessons and in exchange Milliet took some of Van Gogh's paintings to take to Paris. Upon his return to Arles, at the end of September 1888, Milliet presented him with a series of Ukiyo-e woodcuts and other paintings chosen by Van Gogh's brother, Theo. In the days that followed Van Gogh executed this portrait of Milliet.
 
 .ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg options=21851,1,2820,2236 left
 
@@ -50,17 +69,17 @@ This version has on the wall to the right miniatures of van Gogh's portraits of 
 
 ## Second Version
 
-.ve-image wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg right
-
 In April 1889, van Gogh sent the initial version to his brother regretting that it had been damaged by the flood of the Rhône while he was interned at the Old Hospital in Arles. Theo proposed to have it relined and sent back to him in order to copy it. This "repetition" in original scale (Van Gogh's term was "répetition") was executed in September 1889. Both paintings were then sent back to Theo.[^7][^8][^9]
 
-## Third Version
+.ve-image wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg  full width=75%
 
-.ve-image wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg right
+## Third Version
 
 In summer, 1889, Van Gogh finally decided to redo some of his "best" compositions in a smaller size (the term he used was réductions) for his mother and his sister Wil, The Bedroom was among the subjects he chose.[^10] These réductions, finished late in September 1889, are not exact copies.
 
 In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of Zundert self-portrait. The one to the right cannot be linked convincingly to any existing painting by van Gogh
+
+.ve-image wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg  full width=75%
 
 ## Provenance
 
