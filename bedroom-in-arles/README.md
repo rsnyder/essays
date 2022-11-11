@@ -46,7 +46,7 @@ In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of
 
 ## Videos
 
-.ve-video https://www.youtube.com/watch?v=9SsUzaIDsHo
+.ve-video https://www.youtube.com/watch?v=9SsUzaIDsHo width=75%
 
 # References
 
