@@ -81,6 +81,18 @@ In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of
 
 .ve-image wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg  full width=75%
 
+## Comparing the versions
+
+.ve-image compare curtain
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg 
+
+.ve-image compare sync
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg 
+    
 ## Provenance
 
 - The first version never left the artist's estate. Since 1962, it has been in the possession of the Vincent van Gogh Foundation, established by Vincent Willem van Gogh, the artist's nephew, and on permanent loan to the Van Gogh Museum, Amsterdam.
