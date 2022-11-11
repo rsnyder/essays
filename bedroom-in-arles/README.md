@@ -1,10 +1,12 @@
 # Bedroom in Arles
 
-.ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg right
-
 ***Bedroom in Arles*** is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter Vincent van Gogh.
 
 Van Gogh's own title for this composition was simply ***The Bedroom***. There are three authentic versions described in his letters, easily distinguishable from one another by the pictures on the wall to the right.
+
+.ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg full width=75%
+
+.ve-map 43.682330454537066,4.632523842329041 right caption="2, Place Lamartine in Arles
 
 The painting depicts van Gogh's bedroom at 2, Place Lamartine in Arles, Bouches-du-Rhône, France, known as the Yellow House. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right.[^1]
 
