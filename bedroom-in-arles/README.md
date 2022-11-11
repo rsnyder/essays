@@ -6,6 +6,11 @@ Van Gogh's own title for this composition was simply ***The Bedroom***. There ar
 
 .ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg full width=75%
 
+.ve-image grid
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg full width=75%
+    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg
+
 ## _The Yellow House_
 
 ### {.right}
@@ -88,7 +93,7 @@ In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of
     - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg 
 
-.ve-image compare sync
+.ve-image compare sync height=400px
     - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg 
