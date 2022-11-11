@@ -1,9 +1,5 @@
 .ve-header "Portraits of Vincent van Gogh" wc:Vincent_Van_Gogh_0013.jpg options=pct:0,20,100,50
-
- ##
  
-
-
 # Portraits of Vincent van Gogh
 
 .ve-image wc:Vincent_Willem_van_Gogh_102.jpg
@@ -123,10 +119,6 @@ Note the painter shows his right ear, if painted via a mirror, while Van Gogh cu
 
 ### Photo and portrait comparisons
 
-.ve-image compare left height=360px
-    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40/full/!0
+.ve-image compare full width=60% height=450px
+    - wc:Vincent_van_Gogh_photo.jpg pct:17,20.5,75,40/full/!0
     - wc:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg pct:0,11,95,100
-    
-.ve-image compare right height=360px
-    - wc:Vincent_van_Gogh_photo.jpg pct:17,20,75,40
-    - wc:Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg pct:0,12,90,85
