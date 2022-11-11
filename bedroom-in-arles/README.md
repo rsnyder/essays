@@ -21,7 +21,23 @@ Van Gogh started the first version during mid October 1888 while staying in Arle
 
 >_"This time it simply reproduces my bedroom; but colour must be abundant in this part, its simplification adding a rank of grandee to the style applied to the objects, getting to suggest a certain rest or dream. Well, I have thought that on watching the composition we stop thinking and imagining. I have painted the walls pale violet. The ground with checked material. The wooden bed and the chairs, yellow like fresh butter; the sheet and the pillows, lemon light green. The bedspread, scarlet coloured. The window, green. The washbasin, orangey; the tank, blue. The doors, lilac. And, that is all. There is not anything else in this room with closed shutters. The square pieces of furniture must express unswerving rest; also the portraits on the wall, the mirror, the bottle, and some costumes. The white colour has not been applied to the picture, so its frame will be white, aimed to get me even with the compulsory rest recommended for me. I have depicted no type of shade or shadow; I have only applied simple plain colours, like those in crêpes."_[^2]
 
-Van Gogh included sketches of the composition in this letter as well as in a letter to Gauguin, written slightly later.[^3]  In the letter, van Gogh explained that the painting had come out of a sickness that left him bedridden for days.[^4] This version has on the wall to the right miniatures of van Gogh's portraits of his friends Eugène Boch and Paul-Eugène Milliet. The portrait of Eugène Boch is called The Poet and the portrait of Paul Eugène Milliet is called The Lover.[^5][^6]
+Van Gogh included sketches of the composition in this letter as well as in a letter to Gauguin, written slightly later.[^3]  In the letter, van Gogh explained that the painting had come out of a sickness that left him bedridden for days.[^4] 
+
+### Miniatures
+
+This version has on the wall to the right miniatures of van Gogh's portraits of his friends Eugène Boch and Paul-Eugène Milliet. The portrait of Eugène Boch is called The Poet and the portrait of Paul Eugène Milliet is called The Lover.[^5][^6]
+
+#### _The Poet_
+
+.ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg options=18254,1,3753,2976 left
+
+.ve-image wc:Van_Gogh_-_Bildnis_des_belgischen_Dichters_Eugéne_Boch.jpeg right height=360px width=45%
+
+#### _The Lover_
+
+.ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg options=21851,1,2820,2236 left
+
+.ve-image wc:1888_van_Gogh_De_minnaar_anagoria.JPG right height=360px width=45%
 
 ## Second Version
 
