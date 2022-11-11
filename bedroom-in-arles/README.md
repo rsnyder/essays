@@ -6,7 +6,14 @@ Van Gogh's own title for this composition was simply ***The Bedroom***. There ar
 
 .ve-image wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg full width=75%
 
-.ve-map 43.682330454537066,4.632523842329041 right caption="2, Place Lamartine in Arles
+## _The Yellow House_
+
+### {.right}
+
+.ve-image wc:Vincent_van_Gogh_-_The_yellow_house_('The_street').jpg
+.ve-map 43.68233,4.6325238 12 right marker=.ve-map 43.68233,4.6325238 caption="2, Place Lamartine in Arles" width=100%
+
+### {style=clear:unset}
 
 The painting depicts van Gogh's bedroom at 2, Place Lamartine in Arles, Bouches-du-Rhône, France, known as the Yellow House. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right.[^1]
 
