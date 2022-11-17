@@ -4,7 +4,7 @@
 
 ## Map with Allmaps Layer
 
-.ve-map 51.16,0.89 11
+.ve-map 51.16,0.89 11 
     - allmaps=0d13de43a9570166
     - 51.16,0.89 "Rochester UK"
     - Q29303 icon=https://leafletjs.com/examples/custom-icons/leaf-green.png iconShadow=https://leafletjs.com/examples/custom-icons/leaf-shadow.png
