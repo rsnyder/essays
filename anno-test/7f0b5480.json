@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Swimmers",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/d73134508987a18e86c259f0cd1e2a120c9121d735b0bd152bff4aa455b10f1f",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1912.1953125,1305.60986328125,95.271728515625,61.3199462890625"
+      },
+      "id": "7f0b5480"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f502b08f"
+  }
+]
