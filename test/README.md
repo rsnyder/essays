@@ -14,14 +14,14 @@
 
 .ve-media jstor:community.18301397
 
-.ve-image jstor:community.18528719
+.ve-media jstor:community.18528719
 
-.ve-image jstor:community.18528083
+.ve-media jstor:community.18528083
 
-.ve-image jstor:community.18749008
+.ve-media jstor:community.18749008
 
-.ve-image jstor:community.18528079
+.ve-media jstor:community.18528079
 
-.ve-image jstor:community.18528088
+.ve-media jstor:community.18528088
 
-.ve-image jstor:community.18528081
+.ve-media jstor:community.18528081
