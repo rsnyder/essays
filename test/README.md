@@ -14,7 +14,7 @@
 
 .ve-media jstor:community.18301397 right
 
-.ve-media 
+.ve-media grid
     - jstor:community.18528719
     - jstor:community.18528083
     - jstor:community.18749008
