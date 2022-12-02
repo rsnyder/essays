@@ -1,4 +1,4 @@
-# Annotations test
+# Annotation test
 
 ## Image Viewer
 
