@@ -1,6 +1,6 @@
 # README.md
 
-.ve-video https://upload.wikimedia.org/wikipedia/commons/3/37/Tree_City_A2.webm
+.ve-media https://upload.wikimedia.org/wikipedia/commons/3/37/Tree_City_A2.webm
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A diam sollicitudin tempor id eu nisl nunc mi. Duis ultricies lacus sed turpis tincidunt id aliquet. Id donec ultrices tincidunt arcu non sodales neque. Sit amet risus nullam eget felis eget. Blandit cursus risus at ultrices mi tempus. Nibh venenatis cras sed felis eget velit. Fringilla est ullamcorper eget nulla. Hac habitasse platea dictumst vestibulum rhoncus. Morbi tristique senectus et netus et malesuada fames ac turpis. Egestas sed sed risus pretium quam vulputate dignissim. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum. Velit laoreet id donec ultrices tincidunt. Ac auctor augue mauris augue neque gravida. Sem integer vitae justo eget magna fermentum iaculis. Habitant morbi tristique senectus et netus et malesuada fames. Tortor at auctor urna nunc. Varius morbi enim nunc faucibus a pellentesque.
 
