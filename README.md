@@ -1,6 +1,6 @@
 .ve-add-hypothesis
 
-# Homes
+# Home
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et magnis dis ==parturient montes=={Q42} nascetur ridiculus mus mauris. Faucibus in ornare quam viverra orci sagittis eu volutpat. Aliquam nulla facilisi cras fermentum odio. Auctor eu augue ut lectus. Parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Pellentesque massa placerat duis ultricies lacus. Lacinia at quis risus sed. Quis auctor elit sed vulputate mi sit. Augue neque gravida in fermentum. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus. Ullamcorper sit amet risus nullam.
 
