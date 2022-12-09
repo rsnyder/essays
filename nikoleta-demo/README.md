@@ -1,5 +1,10 @@
-# Demo
+.ve-header "My Rose Site"  wc:Red_Rose_135952.jpg "By Ron" sticky contact=ron.snyder@ithaka.org
+    - [Home](/)
+    - [About](about)
+    - [Contact me](contact)
 
+# Demo
+afadsdfasfasfasfadsfsf 
 Lorem ipsum ***dolor sit*** amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus elementum sagittis vitae et leo duis. Et pharetra pharetra massa massa ultricies mi quis hendrerit dolor. Nibh sit amet commodo nulla facilisi nullam. Dui vivamus arcu felis bibendum ut tristique et egestas. ==Montes nascetur=={Q513} ridiculus mus mauris vitae ultricies. Etiam non quam lacus suspendisse faucibus interdum. Et tortor consequat id porta nibh venenatis. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Erat nam at lectus urna duis convallis. Adipiscing bibendum est ultricies integer quis. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Ut pharetra sit amet aliquam id diam. Sed id semper risus in hendrerit gravida rutrum quisque. Sed id semper risus in hendrerit gravida rutrum quisque. Iaculis nunc sed augue lacus viverra. Dui ut ornare lectus sit.
 
 .ve-media wc:Murga_La_Corre_y_Vuela_en_Encuentro_de_Murgas_de_Mujeres_y_Mujeres_Murguistas_edited.jpg right
