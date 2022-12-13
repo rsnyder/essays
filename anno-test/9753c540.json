@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Right eye",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/47174896",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1081.479736328125,822.8695068359375,255.0860595703125,242.0731201171875"
+      },
+      "id": "9753c540"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "745afae6"
+  }
+]
