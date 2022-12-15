@@ -1,0 +1,23 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "First image annotation",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/47174896",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:435.7916564941406,894.8235473632812,1002.7708435058594,809.9843139648438"
+      },
+      "id": "68aff1f2"
+    },
+    "id": "d3809c6d"
+  }
+]
