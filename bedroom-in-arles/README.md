@@ -29,10 +29,9 @@ In April 1889, van Gogh sent the initial version to his brother regretting that 
     - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_-_Lettersketch_17_October_1888.jpg
     - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
 
-.ve-media compare
+.ve-media-beta
     - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_in_Arles_-_Letter_Sketch_October_1888.jpg
-
 
 ## Third version
 
