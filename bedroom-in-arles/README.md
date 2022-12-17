@@ -33,6 +33,7 @@ In April 1889, van Gogh sent the initial version to his brother regretting that 
     - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_in_Arles_-_Letter_Sketch_October_1888.jpg
 
+
 ## Third version
 
 In summer, 1889, Van Gogh finally decided to redo some of his "best" compositions in a smaller size (the term he used was réductions) for his mother and his sister Wil, The Bedroom was among the subjects he chose. These réductions, finished late in September 1889, are not exact copies.
