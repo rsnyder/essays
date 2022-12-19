@@ -19,5 +19,26 @@
       "id": "cb33d7e2"
     },
     "id": "a6002ad9"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "eye",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://ids.lib.harvard.edu/ids/iiif/47174892",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:945.6213989257812,1017.3540649414062,137.28680419921875,102.67340087890625"
+      },
+      "id": "cb33d7e2"
+    },
+    "id": "c5498020"
   }
 ]
