@@ -14,7 +14,7 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:638.8734130859375,592.287841796875,873.5093994140625,796.7916259765625"
+        "value": "xywh=pixel:652.4274291992188,845.2957763671875,873.5093994140625,796.7916259765625"
       },
       "id": "cb33d7e2"
     },
