@@ -2,7 +2,7 @@
 
 ## Image 
 
-.ve-media-beta wc:Murga_La_Corre_y_Vuela_en_Encuentro_de_Murgas_de_Mujeres_y_Mujeres_Murguistas_edited.jpg  width=80%
+.ve-media-beta wc:Murga_La_Corre_y_Vuela_en_Encuentro_de_Murgas_de_Mujeres_y_Mujeres_Murguistas_edited.jpg  width=80% sticky
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore xxx smagna aliqua. Sed vulputate odio ut enim blandit volutpat maecenas volutpat. Egestas tellus rutrum tellus pellentesque. Et netus et malesuada fames ac turpis egestas sed. Aenean vel elit scelerisque mauris. In fermentum posuere urna nec tincidunt. Tincidunt lobortis feugiat vivamus at augue eget arcu. Nisi est sit amet facilisis magna etiam. Vitae tortor condimentum lacinia quis vel. Arcu dictum varius duis at. Mattis vulputate enim nulla aliquet.
 
