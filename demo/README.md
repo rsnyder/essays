@@ -2,7 +2,7 @@
 
 ## Image 
 
-.ve-media-beta wc:Murga_La_Corre_y_Vuela_en_Encuentro_de_Murgas_de_Mujeres_y_Mujeres_Murguistas_edited.jpg  width=80% sticky
+.ve-media-beta wc:Murga_La_Corre_y_Vuela_en_Encuentro_de_Murgas_de_Mujeres_y_Mujeres_Murguistas_edited.jpg  width=80%
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore xxx smagna aliqua. Sed vulputate odio ut enim blandit volutpat maecenas volutpat. Egestas tellus rutrum tellus pellentesque. Et netus et malesuada fames ac turpis egestas sed. Aenean vel elit scelerisque mauris. In fermentum posuere urna nec tincidunt. Tincidunt lobortis feugiat vivamus at augue eget arcu. Nisi est sit amet facilisis magna etiam. Vitae tortor condimentum lacinia quis vel. Arcu dictum varius duis at. Mattis vulputate enim nulla aliquet.
 
@@ -22,7 +22,7 @@ Lacus ==vestibulum=={20} sed arcu non odio euismod lacinia. Est ante in nibh mau
 
 ## Multiple Images
 
-.ve-media-beta
+.ve-media-beta caption="Image grid example"
     - wc:Murga_La_Corre_y_Vuela_en_Encuentro_de_Murgas_de_Mujeres_y_Mujeres_Murguistas_edited.jpg
     - gh:rsnyder/media/italy/amalfi-coast/Amalfi_Coast.jpg
     - https://iiif.harvardartmuseums.org/manifests/object/299843
