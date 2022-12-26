@@ -14,7 +14,7 @@ The painting depicts van Gogh's bedroom at 2, Place Lamartine in ==Arles=={Q4829
 
 Van Gogh started the first version during mid October 1888 while staying in Arles, and explained his aims and means to his brother Theo:
 
-.ve-media-beta wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg right
+.ve-media wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg right
 
 >"This time it simply reproduces my bedroom; but colour must be abundant in this part, its simplification adding a rank of grandee to the style applied to the objects, getting to suggest a certain rest or dream. Well, I have thought that on watching the composition we stop thinking and imagining. I have painted the walls pale violet. The ground with checked material. The wooden bed and the chairs, yellow like fresh butter; the sheet and the pillows, lemon light green. The bedspread, scarlet coloured. The window, green. ==The washbasin, orangey; the tank, blue=={4127,6060,6995,5536}. The doors, lilac. And, that is all. There is not anything else in this room with closed shutters. The square pieces of furniture must express unswerving rest; also the portraits on the wall, the mirror, the bottle, and some costumes. The white colour has not been applied to the picture, so its frame will be white, aimed to get me even with the compulsory rest recommended for me. I have depicted no type of shade or shadow; I have only applied simple plain colours, like those in crêpes."
 Van Gogh included sketches of the composition in this letter as well as in a letter to Gauguin, written slightly later. In the letter, van Gogh explained that the painting had come out of a sickness that left him bedridden for days. This version has on the wall to the right miniatures of van Gogh's portraits of his friends Eugène Boch and Paul-Eugène Milliet. The portrait of Eugène Boch is called The Poet and the portrait of Paul Eugène Milliet is called The Lover.
@@ -23,13 +23,13 @@ Van Gogh included sketches of the composition in this letter as well as in a let
 
 In April 1889, van Gogh sent the initial version to his brother regretting that it had been damaged by the flood of the Rhône while he was interned at the Old Hospital in Arles. Theo proposed to have it relined and sent back to him in order to copy it. This "repetition" in original scale (Van Gogh's term was "répetition") was executed in September 1889. Both paintings were then sent back to Theo.
 
-.ve-media-beta
+.ve-media
     - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_in_Arles_-_Letter_Sketch_October_1888.jpg
     - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_-_Lettersketch_17_October_1888.jpg
     - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
 
-.ve-media-beta
+.ve-media
     - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_in_Arles_-_Letter_Sketch_October_1888.jpg
 
@@ -47,7 +47,7 @@ In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of
 - The third version, formerly in the possession of Van Gogh's sister Wil and later acquired by Prince Matsukata, entered the French national collections in 1959, following the French-Japanese peace settlement, and is on permanent display in the Musée d'Orsay, Paris.
 - All three versions of the Bedroom were brought together for an exhibition entitled Van Gogh's Bedrooms at the Art Institute of Chicago in 2016. The exhibition featured related works as well as a digital reconstruction of his bedroom.
 
-.ve-video https://www.youtube.com/watch?v=pgOm9rjEtgI right
+.ve-media https://www.youtube.com/watch?v=pgOm9rjEtgI right
 
 Something interesting ==here=={2:21}
 
