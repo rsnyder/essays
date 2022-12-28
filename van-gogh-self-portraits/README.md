@@ -2,7 +2,7 @@
  
 # Portraits of Vincent van Gogh
 
-.ve-image wc:Vincent_Willem_van_Gogh_102.jpg
+.ve-media wc:Vincent_Willem_van_Gogh_102.jpg
 
 The portraits of Vincent van Gogh (1853–1890) are the self-portraits, portraits of him by other artists, and photographs—one of which is dubious—of the Dutch artist. Van Gogh's dozens of self-portraits were an important part of his œuvre as a painter. Most probably, van Gogh's self-portraits are depicting the face as it appeared in the mirror he used to reproduce his face, i.e. his right side in the image is in reality the left side of his face.
 
@@ -18,7 +18,7 @@ On July 14, 2022, an almost certainly authentic self-portrait of van Gogh was fo
 
 The first self-portrait by van Gogh that survived, is dated 1886.
 
-.ve-image grid
+.ve-media
     - wc:Van_Gogh_-_Selbstbildnisse.jpeg
     - wc:Zelfportret_als_schilder_-_s0160V1962_-_Van_Gogh_Museum.jpg
     - wc:Zelfportret_-_s0159V1962_-_Van_Gogh_Museum.jpg
@@ -33,7 +33,7 @@ The first self-portrait by van Gogh that survived, is dated 1886.
 
 ### Paris 1887
 
-.ve-image grid
+.ve-media
     - wc:Zelfportret_met_glas_-_s0161V1962_-_Van_Gogh_Museum.jpg
     - wc:Zelfportret_-_s0156V1962_-_Van_Gogh_Museum.jpg
     - wc:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_(454045).jpg
@@ -54,7 +54,7 @@ The first self-portrait by van Gogh that survived, is dated 1886.
 
 ### Arles
 
-.ve-image grid
+.ve-media
     - wc:Zelfportret_met_pijp_en_strohoed_-_s0163V1962_-_Van_Gogh_Museum.jpg
     - wc:Van_Gogh_self-portrait_dedicated_to_Gauguin.jpg
     - wc:Van_Gogh_-_Selbstbildnis34.jpeg
@@ -66,7 +66,7 @@ The first self-portrait by van Gogh that survived, is dated 1886.
 
 All the self-portraits executed in Saint-Rémy show the artist's head from the left, i.e. the side with non-mutilated ear.
 
-.ve-image grid
+.ve-media
     - wc:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_(719161).jpg
     - wc:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg
     - wc:Vincent_Willem_van_Gogh_102.jpg
@@ -105,20 +105,20 @@ Note the painter shows his right ear, if painted via a mirror, while Van Gogh cu
 
 ## Portraits of Vincent van Gogh by other artists
 
-.ve-image grid
+.ve-media
     - wc:Vincent_van_Gogh_-_s0273V1962_-_Van_Gogh_Museum.jpg
     - wc:Toulouse-Lautrec_de_Henri_Vincent_van_Gogh_Sun.jpg
     - wc:Paul_Gauguin_-_Vincent_van_Gogh_painting_sunflowers_-_Google_Art_Project.jpg
 
 ## Photographs
 
-.ve-image grid
+.ve-media
     - wc:Theo_van_Gogh_in_1873.jpg
     - wc:Vincent_van_Gogh_January_1873.jpeg
     - wc:Vincent_van_Gogh_photo.jpg
 
 ### Photo and portrait comparisons
 
-.ve-image compare full width=60% height=450px
+.ve-media width=60% height=450px
     - wc:Vincent_van_Gogh_photo.jpg pct:17,20.5,75,40/full/!0
     - wc:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg pct:0,11,95,100
