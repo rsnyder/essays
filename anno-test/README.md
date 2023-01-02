@@ -2,7 +2,7 @@
 
 ## Image Viewer
 
-.ve-image gh:rsnyder/media/italy/amalfi-coast/Amalfi__2.jpg right
+.ve-media https://iiif.harvardartmuseums.org/manifests/object/299843 right
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin tempor id eu nisl nunc mi ipsum. Aliquet bibendum enim facilisis gravida neque convallis. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Sagittis orci a scelerisque purus semper eget duis at. Sagittis aliquam malesuada bibendum arcu. Justo laoreet sit amet cursus sit amet dictum sit. Sed nisi lacus sed viverra tellus in hac habitasse. A scelerisque purus semper eget duis at. Est ullamcorper eget nulla facilisi etiam. Natoque penatibus et magnis dis parturient montes nascetur. Id venenatis a condimentum vitae.
 
