@@ -19,26 +19,5 @@
       "id": "68aff1f2"
     },
     "id": "d3809c6d"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "new",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://ids.lib.harvard.edu/ids/iiif/47174896",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:268.342529296875,1920.225341796875,425.11212158203125,401.25830078125"
-      },
-      "id": "68aff1f2"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "c2b061be"
   }
 ]
