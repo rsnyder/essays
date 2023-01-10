@@ -119,6 +119,6 @@ Note the painter shows his right ear, if painted via a mirror, while Van Gogh cu
 
 ### Photo and portrait comparisons
 
-.ve-media width=60% height=450px
+.ve-media width=60%
     - wc:Vincent_van_Gogh_photo.jpg pct:17,20.5,75,40/full/!0
     - wc:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg pct:0,11,95,100
