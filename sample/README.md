@@ -1,5 +1,6 @@
 # README.md
 
+.ve-add-hypothesis
 
 .ve-media jstor:community.24586241 right
 
