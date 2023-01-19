@@ -1,4 +1,8 @@
 # README.md
 
+.ve-map 37.71859,-83.49609 5 right
+    - Q485172
+    - Q2122398
 
-.ve-media jstor:community.18572956
+- ==Ann Arbor=={42.281389,-83.748333}
+- ==Hardeeville=={32.283889,-81.078611}
