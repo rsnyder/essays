@@ -1,5 +1,3 @@
-# Annotation test
-
 ## Image Viewer
 
 .ve-media https://iiif.harvardartmuseums.org/manifests/object/299843 right
