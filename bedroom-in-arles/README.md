@@ -52,8 +52,3 @@ In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of
 Something interesting ==here=={2:21}
 
 [^1]: "Bedroom in Arles". In Wikipedia. Retrieved November 29, 2021, from [https://en.wikipedia.org/wiki/Bedroom_in_Arles](https://en.wikipedia.org/wiki/Bedroom_in_Arles)
-
-.ve-footer
-    - Brought to you by:  [![](https://raw.githubusercontent.com/jstor-labs/juncture-digital/c7d73fb/images/Labs_logo_knockout.svg)](https://labs.jstor.org)
-    - [About]()
-    - view-code
