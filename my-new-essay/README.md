@@ -11,5 +11,3 @@ The plant was first domesticated in the Americas. Sunflower seeds were brought t
 .ve-media grid
     - wc:SunflowerSunset2.jpg
     - wc:Sunflower_macro_wide.jpg
-
-.ve-add-hypothesis
