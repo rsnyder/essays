@@ -1,8 +1,7 @@
-# README.md
+.ve-media wc:The_Bug_Peek.jpg right
 
-.ve-map 37.71859,-83.49609 5 right
-    - Q485172
-    - Q2122398
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- ==Ann Arbor=={42.281389,-83.748333}
-- ==Hardeeville=={32.283889,-81.078611}
+Felis eget nunc lobortis mattis aliquam faucibus purus. Massa enim nec dui nunc mattis. Lacus sed viverra tellus in hac habitasse platea dictumst. Tellus integer feugiat scelerisque varius. Accumsan tortor posuere ac ut. Lacus laoreet non curabitur gravida arcu. Gravida cum sociis natoque penatibus et magnis dis parturient montes. Eget sit amet tellus cras. Diam sollicitudin tempor id eu nisl nunc. Aliquet enim tortor at auctor urna nunc id cursus. Tincidunt vitae semper quis lectus nulla. Dignissim convallis aenean et tortor at risus viverra. Sagittis aliquam malesuada bibendum arcu vitae elementum. Pharetra pharetra massa massa ultricies mi quis hendrerit dolor magna. Tristique senectus et netus et malesuada fames ac turpis. Purus non enim praesent elementum facilisis. In fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Turpis tincidunt id aliquet risus feugiat in ante. Nulla aliquet porttitor lacus luctus accumsan. Velit laoreet id donec ultrices tincidunt arcu non.
+
+.ve-annotate
