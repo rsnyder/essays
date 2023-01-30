@@ -16,8 +16,6 @@ Van Gogh used complementary, contrasting colors to bring an intensity to his wor
 
 Van Gogh mentioned the liveliness and interplay of "a wedding of two complementary colors, their mingling and opposition, the mysterious vibrations of two kindred souls."
 
-
-.ve-media wc:Farmhouse_in_Provence,_1888,_Vincent_van_Gogh,_NGA.jpg
 While in Nuenen Van Gogh became familiar with Michel Eugène Chevreul's laws in weaving to maximize the intensity of colors through their contrast to adjacent colors.
 
 In Paris he was exposed through his brother Theo to Adolphe Monticelli's still life work with flowers, which he admired. First, he saw Monticelli's use of color as an expansion of Delacroix's theories of color and contrast. Secondly he admired the effect Monticelli created by heavy application of paint. It was partially Monticelli, from Marseilles, who inspired Van Gogh's southerly move to Provence. He felt such kinship for the man, and desire to emulate his style, that he wrote in a letter to his sister Wil that he felt as if he were "Monticelli's son or his brother."
