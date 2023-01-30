@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Something about this region",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.jstor.org/iiif/2017/01/22/14/c16f34ef-8de3-469f-b725-8421542c3b3a_deflate.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:924.1195068359375,1987.8302001953125,260.854736328125,170.3016357421875"
+      },
+      "id": "297d9348"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "64144505"
+  }
+]
