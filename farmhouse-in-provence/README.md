@@ -1,4 +1,5 @@
 .ve-header "Farmhouse in Provence" wc:Farmhouse_in_Provence,_1888,_Vincent_van_Gogh,_NGA.jpg sticky
+.ve-annotate
 
 # Farmhouse in Provence
 
