@@ -1,10 +1,5 @@
 
-## Landscape with Church by a Torrent
 
-.ve-media jstor:community.24605385 right sticky
+.ve-media jstor:community.18615309 right
 
-### Questions
-
-- ==What is this?=={8076,7849,352,455}
-
-.ve-add-hypothesis
+.ve-media jstor:community.28163929 left
