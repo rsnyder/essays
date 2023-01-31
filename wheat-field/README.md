@@ -10,7 +10,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Pretium fusce id velit ut tortor pretium viverra. Volutpat ac tincidunt vitae semper quis lectus nulla at. Quisque id diam vel quam. Nec feugiat in fermentum posuere urna nec tincidunt praesent semper. Sit amet cursus sit amet dictum sit amet justo. Ac ut consequat semper viverra nam libero justo laoreet sit. Quis viverra nibh cras pulvinar mattis nunc sed. Fringilla ut morbi tincidunt augue interdum velit euismod in pellentesque. Purus in mollis nunc sed. Proin libero nunc consequat interdum varius sit. Aliquet porttitor lacus luctus accumsan tortor. Eros in cursus turpis massa tincidunt dui ut.
 
-
 .ve-media grid
     - jstor:community.15995498
     - jstor:community.15996094
