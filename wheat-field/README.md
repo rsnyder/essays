@@ -4,6 +4,8 @@
 
 .ve-annotate
 
+.ve-media https://iiif.archivelab.org/iiif/jstor-25311813/manifest.json
+
 a change
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut sem viverra aliquet eget. Tellus id interdum velit laoreet id donec ultrices tincidunt. Ultrices sagittis orci a scelerisque purus. Malesuada nunc vel risus commodo viverra. Nibh venenatis cras sed felis eget velit aliquet. ==Ac tortor dignissim convallis=={4648,2606,733,575} aenean et tortor at. Cras adipiscing enim eu turpis egestas pretium aenean. Diam maecenas ultricies mi eget mauris pharetra et. Semper risus in hendrerit gravida rutrum. Pulvinar etiam non quam lacus. Aliquet sagittis id consectetur purus ut faucibus pulvinar. A erat nam at lectus urna duis. Risus sed vulputate odio ut enim. Malesuada fames ac turpis egestas integer eget aliquet nibh. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Non sodales neque sodales ut etiam sit amet.
