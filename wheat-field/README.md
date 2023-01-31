@@ -4,7 +4,7 @@
 
 .ve-annotate
 
-.ve-media https://iiif.archivelab.org/iiif/jstor-25311813/manifest.json
+.ve-media https://iiif.archivelab.org/iiif/jstor-25311813/manifest.json right
 
 a change
 
