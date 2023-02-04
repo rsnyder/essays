@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Van Gogh's guest room, where Paul Gauguin lived for nine weeks from late October 1888",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/7b9ba9a67da574ed727797765db660ce.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3110.742919921875,2123.093994140625,566.106201171875,722.7353515625"
+      },
+      "id": "2c802ec6"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "529bba37"
+  }
+]
