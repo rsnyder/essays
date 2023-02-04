@@ -4,11 +4,9 @@
 
 **Bedroom in Arles** (French: _La Chambre à Arles_; Dutch: _Slaapkamer te Arles_) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter ==Vincent van Gogh=={Q5582}.
 
-Van Gogh's own title for this composition was simply **The Bedroom** (French: _La Chambre à coucher_). There are three authentic versions described in his letters, easily distinguishable from one another by the pictures on the wall to the right.[^1]
-
-.ve-media wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg width=60%
-
 ## The Paintings
+
+Van Gogh's own title for this composition was simply **The Bedroom** (French: _La Chambre à coucher_). There are three authentic versions described in his letters, easily distinguishable from one another by the pictures on the wall to the right.[^1]
 
 The painting depicts van Gogh's bedroom at 2, Place Lamartine in ==Arles=={Q48292}, Bouches-du-Rhône, France, known as the ==Yellow House=={Q2200610}. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right.
 
@@ -21,6 +19,8 @@ Van Gogh started the first version during mid October 1888 while staying in Arle
     - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_-_Lettersketch_17_October_1888.jpg
 
 > "This time it simply reproduces my bedroom; but colour must be abundant in this part, its simplification adding a rank of grandee to the style applied to the objects, getting to suggest a certain rest or dream. Well, I have thought that on watching the composition we stop thinking and imagining. I have painted the walls pale violet. The ground with checked material. The wooden bed and the chairs, yellow like fresh butter; the sheet and the pillows, lemon light green. The bedspread, scarlet coloured. The window, green. The washbasin, orangey; the tank, blue. The doors, lilac. And, that is all. There is not anything else in this room with closed shutters. The square pieces of furniture must express unswerving rest; also the portraits on the wall, the mirror, the bottle, and some costumes. The white colour has not been applied to the picture, so its frame will be white, aimed to get me even with the compulsory rest recommended for me. I have depicted no type of shade or shadow; I have only applied simple plain colours, like those in crêpes."[^2]
+
+.ve-media wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg width=70%
 
 Van Gogh included sketches of the composition in this letter as well as in a letter to Gauguin, written slightly later.[^3] In the letter, van Gogh explained that the painting had come out of a sickness that left him bedridden for days.[^4] This version has on the wall to the right miniatures of van Gogh's portraits of his friends Eugène Boch and Paul-Eugène Milliet. The portrait of ==Eugène Boch=={Q1373445} is called The Poet and the portrait of ==Paul Eugène Milliet=={Q7232361} is called The Lover.[^5] [^6]
 
@@ -38,6 +38,8 @@ In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of
     - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg
+    
+Click on any of the thumbnails above for a larger version of the image with deep-zoom and panning.  The image for version 1 (left) is especially high resolution, courtesy of the [Google Art Project](https://commons.wikimedia.org/wiki/Google_Art_Project).  
 
 ### Provenance
 
@@ -83,7 +85,7 @@ Van Gogh occupied two large ones on the ground floor to serve as an atelier (wor
 
 The window on the first floor nearest the corner with both shutters open is that of ==van Gogh's guest room, where Paul Gauguin lived=={2444,1755,1730,1344,529bba37} for nine weeks from late October 1888. 
 
-Behind the next window, with shutters nearly closed, is ==van Gogh's bedroom=={2556,2058,961,747,b53cd661}. The two small rooms at the rear were rented by van Gogh at a later time.
+Behind the next window, with shutters nearly closed, is ==van Gogh's bedroom=={2566,2019,1300,1010,b53cd661}. The two small rooms at the rear were rented by van Gogh at a later time.
 
 ## References
 
