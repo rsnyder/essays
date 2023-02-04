@@ -37,7 +37,14 @@ In summer, 1889, Van Gogh finally decided to redo some of his "best" composition
 
 In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of Zundert self-portrait. The one to the right cannot be linked convincingly to any existing painting by van Gogh.
 
-### Anatomy of an Artwork
+### Provenance
+
+- The first version never left the artist's estate. Since 1962, it has been in the possession of the Vincent van Gogh Foundation, established by Vincent Willem van Gogh, the artist's nephew, and on permanent loan to the [Van Gogh Museum](https://en.wikipedia.org/wiki/Van_Gogh_Museum), Amsterdam.
+- The second version has, since 1926, been the possession of the [Art Institute of Chicago](https://en.wikipedia.org/wiki/Art_Institute_of_Chicago) as part of the [Helen Birch Bartlett Memorial Collection](https://en.wikipedia.org/wiki/Helen_Birch_Bartlett_Memorial_Collection).
+- The third version, formerly in the possession of Van Gogh's sister Wil and later acquired by Prince [Matsukata](https://en.wikipedia.org/wiki/Matsukata_Masayoshi), entered the French national collections in 1959, following the French-Japanese peace settlement, and is on permanent display in the [Musée d'Orsay](https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay), Paris.
+- All three versions of the Bedroom were brought together for an exhibition entitled Van Gogh's Bedrooms at the Art Institute of Chicago in 2016. The exhibition featured related works as well as a digital reconstruction of his bedroom.[^11] [^12]
+
+## Anatomy of an Artwork
 
 .ve-video https://www.youtube.com/watch?v=q8abIqDaqvE right
 
@@ -46,13 +53,6 @@ YouTube video uploaded by [Sotheby's](https://www.youtube.com/@sothebys)
 - ==The Yellow House=={72}
 - ==Location of "The Bedroom"=={82}
 - ==The Sketch=={88}
-
-### Provenance
-
-- The first version never left the artist's estate. Since 1962, it has been in the possession of the Vincent van Gogh Foundation, established by Vincent Willem van Gogh, the artist's nephew, and on permanent loan to the [Van Gogh Museum](https://en.wikipedia.org/wiki/Van_Gogh_Museum), Amsterdam.
-- The second version has, since 1926, been the possession of the [Art Institute of Chicago](https://en.wikipedia.org/wiki/Art_Institute_of_Chicago) as part of the [Helen Birch Bartlett Memorial Collection](https://en.wikipedia.org/wiki/Helen_Birch_Bartlett_Memorial_Collection).
-- The third version, formerly in the possession of Van Gogh's sister Wil and later acquired by Prince [Matsukata](https://en.wikipedia.org/wiki/Matsukata_Masayoshi), entered the French national collections in 1959, following the French-Japanese peace settlement, and is on permanent display in the [Musée d'Orsay](https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay), Paris.
-- All three versions of the Bedroom were brought together for an exhibition entitled Van Gogh's Bedrooms at the Art Institute of Chicago in 2016. The exhibition featured related works as well as a digital reconstruction of his bedroom.[^11] [^12]
 
 ## Arles
 
@@ -64,7 +64,7 @@ YouTube video uploaded by [Sotheby's](https://www.youtube.com/@sothebys)
 
 Many artists have lived and worked in this area because of the southern light, including ==Pablo Picasso=={Q5593}, ==Paul Gauguin=={Q37693}, ==Jacques Réattu=={Q3159943}, and ==Peter Brown=={Q7172987}. 
 
-Vincent van Gogh lived in Arles from 1888 to 1889, and produced over 300 paintings and drawings during his time there.
+Vincent van Gogh lived in Arles from 1888 to 1889, and produced over 300 paintings and drawings during his time there, including =="Van Gogh's Chair"=={Q1118295}, =="Café Terrace at Night"=={Q1025704}, and =="The Yellow House"=={Q2200610} in and the first in Van Gog's =="Sunflowers" series''=={Q157541}.
 
 ### The Yellow House
 
