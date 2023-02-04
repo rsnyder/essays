@@ -6,14 +6,11 @@
 
 Van Gogh's own title for this composition was simply **The Bedroom** (French: _La Chambre à coucher_). There are three authentic versions described in his letters, easily distinguishable from one another by the pictures on the wall to the right.[^1]
 
+.ve-media wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg width=60%
+
 ## The Paintings
 
 The painting depicts van Gogh's bedroom at 2, Place Lamartine in ==Arles=={Q48292}, Bouches-du-Rhône, France, known as the ==Yellow House=={Q2200610}. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right.
-
-.ve-media
-    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
-    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
-    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg
 
 ### First Version
 
@@ -37,6 +34,11 @@ In summer, 1889, Van Gogh finally decided to redo some of his "best" composition
 
 In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of Zundert self-portrait. The one to the right cannot be linked convincingly to any existing painting by van Gogh.
 
+.ve-media
+    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
+    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg
+
 ### Provenance
 
 - The first version never left the artist's estate. Since 1962, it has been in the possession of the Vincent van Gogh Foundation, established by Vincent Willem van Gogh, the artist's nephew, and on permanent loan to the [Van Gogh Museum](https://en.wikipedia.org/wiki/Van_Gogh_Museum), Amsterdam.
@@ -48,11 +50,11 @@ In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of
 
 .ve-video https://www.youtube.com/watch?v=q8abIqDaqvE right
 
-YouTube video uploaded by [Sotheby's](https://www.youtube.com/@sothebys)
+This episode of "Anatomy of an Artwork" (YouTube video uploaded by [Sotheby's](https://www.youtube.com/@sothebys)), provides a guided tour of the painting and context in which it was created.  A few clips of note are linked below: 
 
-- ==The Yellow House=={72}
-- ==Location of "The Bedroom"=={82}
-- ==The Sketch=={88}
+- ==The "Yellow House" and location of van Gogh's Bedroom=={74}
+- ==The Sketch=={89}
+- ==Paintings perspective=={160}
 
 ## Arles
 
@@ -64,19 +66,26 @@ YouTube video uploaded by [Sotheby's](https://www.youtube.com/@sothebys)
 
 Many artists have lived and worked in this area because of the southern light, including ==Pablo Picasso=={Q5593}, ==Paul Gauguin=={Q37693}, ==Jacques Réattu=={Q3159943}, and ==Peter Brown=={Q7172987}. 
 
-Vincent van Gogh lived in Arles from 1888 to 1889, and produced over 300 paintings and drawings during his time there, including =="Van Gogh's Chair"=={Q1118295}, =="Café Terrace at Night"=={Q1025704}, and =="The Yellow House"=={Q2200610} in and the first in Van Gog's =="Sunflowers" series''=={Q157541}.
+Vincent van Gogh lived in Arles from 1888 to 1889, and produced over 300 paintings and drawings during his time there, including 
+
+- =="Van Gogh's Chair"=={Q1118295}, 
+- =="Café Terrace at Night"=={Q1025704}, 
+- =="The Yellow House"=={Q2200610}, and
+-  the first in Van Gogh's series of =="Sunflowers"=={Q157541} paintings
 
 ### The Yellow House
 
-.ve-media wc:Vincent_van_Gogh_-_The_yellow_house_('The_street').jpg left
-
 The house was the right wing of ==2 Place Lamartine, Arles, France=={43.68217,4.63251,18}, where, on May 1, 1888, van Gogh rented four rooms. 
 
-He occupied two large ones on the ground floor to serve as an atelier (workshop) and kitchen, and on the first floor, two smaller ones facing Place Lamartine. 
+.ve-media wc:Vincent_van_Gogh_-_The_yellow_house_('The_street').jpg left
+
+Van Gogh occupied two large ones on the ground floor to serve as an atelier (workshop) and kitchen, and on the first floor, two smaller ones facing Place Lamartine. 
 
 The window on the first floor nearest the corner with both shutters open is that of ==van Gogh's guest room, where Paul Gauguin lived=={2444,1755,1730,1344,529bba37} for nine weeks from late October 1888. 
 
-Behind the next window, with shutters nearly closed, is **==van Gogh's bedroom=={2556,2058,961,747,b53cd661}**. The two small rooms at the rear were rented by van Gogh at a later time.
+Behind the next window, with shutters nearly closed, is ==van Gogh's bedroom=={2556,2058,961,747,b53cd661}. The two small rooms at the rear were rented by van Gogh at a later time.
+
+## References
 
 [^1]: Though the building was damaged in an air-raid, June 25, 1944, and laid down afterwards, floor plans by Lèon Ramser, an Arlesian architect, dating from the 1920s have survived and supply most of the essential information, see: Roland Dorn, "Décoration": Vincent van Goghs Werkreihe für das Gelbe Haus in Arles, Georg Olms Verlag, Hildesheim, Zürich & New York, 1990
 [^2]: ["Vincent van Gogh to Theo van Gogh : 16 October 1888"](https://www.webexhibits.org//vangogh/letter/18/554.htm). webexhibits.org.
