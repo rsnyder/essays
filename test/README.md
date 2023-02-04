@@ -7,7 +7,7 @@
 
 # Top
 
-## Right {style="float:right; width:50%; position:sticky;"}
+## Right {.right-section style="float:right; width:50%; position:sticky;"}
 
 .ve-media wc:The_Bug_Peek.jpg
 
