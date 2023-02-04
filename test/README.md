@@ -22,7 +22,7 @@ Van Gogh started the first version during mid October 1888 while staying in Arle
 
 .ve-media wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg width=70%
 
-Van Gogh included sketches of the composition in this letter as well as in a letter to Gauguin, written slightly later.[^3] In the letter, van Gogh explained that the painting had come out of a sickness that left him bedridden for days.[^4] This version has on the wall to the right miniatures of van Gogh's portraits of his friends Eugène Boch and Paul-Eugène Milliet. The portrait of ==Eugène Boch=={Q1373445} is called The Poet and the portrait of ==Paul Eugène Milliet=={Q7232361} is called The Lover.[^5] [^6]
+Van Gogh included sketches of the composition in this letter as well as in a letter to Gauguin, written slightly later.[^3] In the letter, van Gogh explained that the painting had come out of a sickness that left him bedridden for days.[^4] This version has on the wall to the right miniatures of van Gogh's portraits of his friends Eugène Boch and Paul-Eugène Milliet. The portrait of ==Eugène Boch=={Q1373445} is called ==The Poet=={18424,26,3552,2816} and the portrait of ==Paul Eugène Milliet=={Q7232361} is called ==The Lover=={21999,1,2437,1932}.[^5] [^6]
 
 ### Second Version
 
@@ -39,7 +39,7 @@ In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of
     - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
     - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg
     
-Click on any of the thumbnails above for a larger version of the image with deep-zoom and panning.  The image for version 1 (left) is especially high resolution, courtesy of the [Google Art Project](https://commons.wikimedia.org/wiki/Google_Art_Project).  
+Click on any of the thumbnails above for a larger version of the image with deep-zoom and panning.  The image for version 1 (left) is especially high resolution, courtesy of the [Google Art Project](https://commons.wikimedia.org/wiki/Google_Art_Project).  This is a great image for casual exploration of the work.
 
 ### Provenance
 
@@ -101,3 +101,5 @@ Behind the next window, with shutters nearly closed, is ==van Gogh's bedroom=={2
 [^10]: ["Vincent van Gogh to Theo van Gogh : 28 September 1889"](https://www.webexhibits.org//vangogh/letter/20/608.htm). webexhibits.org.
 [^11]:  ["Van Gogh's Bedrooms"](https://www.artic.edu/exhibitions/1865/van-gogh-s-bedrooms). The Art Institute of Chicago.
 [^12]:  ["The Bedroom"](https://www.artic.edu/artworks/28560/the-bedroom). The Art Institute of Chicago.
+
+.ve-annotate
