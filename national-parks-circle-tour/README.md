@@ -52,7 +52,7 @@ Colorado Springs is a home rule municipality in and the county seat of El Paso C
 | ---- | --------- | ----------------- | --------- | ------- | ---- |
 | 1 | Travel day | Home | Boulder (via Denver) |  |  |
 | 2 | Explore Boulder |  |  |  |  |
-| 3 | Tour Rocky Mountain National Park | Boulder | Rocky Mountain National Park | 38 | 1:00 |
+| 3 | Explore Rocky Mountain National Park | Boulder | Rocky Mountain National Park | 38 | 1:00 |
 | 4 | Travel day | Rocky Mountain National Park | Arches National Park | 386 | 7:00 |
 | 5 | Explore Arches National Park |  |  |  |  |
 | 6 | Tour Bryce Canyon National Park | Arches National Park | Bryce Canyon National Park | 253 | 4:30 |
