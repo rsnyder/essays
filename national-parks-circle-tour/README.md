@@ -2,7 +2,7 @@
 
 # National Parks Circle Tour
 
-.ve-map 38.51379,-108.85254 6 right sticky caption="National Parks Circle Tour"
+.ve-map 38.51379,-108.85254 6 right sticky
     - Q192517
     - Q777183
     - Q219562
