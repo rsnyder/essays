@@ -50,7 +50,7 @@ Colorado Springs is a home rule municipality in and the county seat of El Paso C
 
 | Day | Activities | Origin | Destination | Miles | Time |
 | ---- | --------- | ----------------- | --------- | ------- | ---- |
-| 1 | Travel day | Ann Arbor | Boulder (via Denver) |  |  |
+| 1 | Travel day | Home | Boulder (via Denver) |  |  |
 | 2 | Explore Boulder |  |  |  |  |
 | 3 | Tour Rocky Mountain National Park | Boulder | Rocky Mountain National Park | 38 | 1:00 |
 | 4 | Tour Arches National Park | Rocky Mountain National Park | Arches National Park | 386 | 7:00 |
@@ -61,4 +61,4 @@ Colorado Springs is a home rule municipality in and the county seat of El Paso C
 | 9 | Travel day | Mesa Verde National Park | Colorado Springs | 362 | 7:00 |
 | 10 | Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) |  |  |  |  |
 | 11 | Travel Day | Colorado Springs | Denver | 71 | 1:16 |
-| 12 | Travel Day | Denver | Ann Arbor |  |  |
+| 12 | Travel Day | Denver | Home |  |  |
