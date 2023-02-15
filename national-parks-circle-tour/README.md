@@ -1,7 +1,5 @@
 .ve-header "National Parks Circle Tour" wc:Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg sticky
 
-# National Parks Circle Tour
-
 .ve-map 38.51379,-108.85254 6 right sticky
     - Q192517
     - Q777183
