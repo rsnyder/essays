@@ -53,12 +53,14 @@ Colorado Springs is a home rule municipality in and the county seat of El Paso C
 | 1 | Travel day | Home | Boulder (via Denver) |  |  |
 | 2 | Explore Boulder |  |  |  |  |
 | 3 | Tour Rocky Mountain National Park | Boulder | Rocky Mountain National Park | 38 | 1:00 |
-| 4 | Tour Arches National Park | Rocky Mountain National Park | Arches National Park | 386 | 7:00 |
-| 5 | Tour Bryce Canyon National Park | Arches National Park | Bryce Canyon National Park | 253 | 4:30 |
-| 6 | Travel day | Bryce Canyon National Park | Grand Canyon National Park | 286 | 5:13 |
-| 7 | Explore Grand Canyon |  |  |  |  |
-| 8 | Visit Monument Valley and Mesa Verde | Grand Canyon National Park | Mesa Verde | 230 | 6:30 |
-| 9 | Travel day | Mesa Verde National Park | Colorado Springs | 362 | 7:00 |
-| 10 | Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) |  |  |  |  |
-| 11 | Travel Day | Colorado Springs | Denver | 71 | 1:16 |
-| 12 | Travel Day | Denver | Home |  |  |
+| 4 | Travel day | Rocky Mountain National Park | Arches National Park | 386 | 7:00 |
+| 5 | Explore Arches National Park |  |  |  |  |
+| 6 | Tour Bryce Canyon National Park | Arches National Park | Bryce Canyon National Park | 253 | 4:30 |
+| 7 | Travel day | Bryce Canyon National Park | Grand Canyon National Park | 286 | 5:13 |
+| 8 | Explore Grand Canyon |  |  |  |  |
+| 9 | Visit Monument Valley and Mesa Verde | Grand Canyon National Park | Mesa Verde | 230 | 6:30 |
+| 10 | Explore Mesa Verde |  |  |  |  |
+| 11 | Travel day | Mesa Verde National Park | Colorado Springs | 362 | 7:00 |
+| 12 | Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) |  |  |  |  |
+| 13 | Travel Day | Colorado Springs | Denver | 71 | 1:16 |
+| 14 | Travel Day | Denver | Home |  |  |
