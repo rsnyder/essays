@@ -1,6 +1,8 @@
 # National Parks Circle Tour
 
-.ve-map 38.13456,-109.4458 6 right sticky
+## Destinations
+
+.ve-map 38.51379,-108.85254 6 right sticky caption="National Parks Circle Tour"
     - Q192517
     - Q777183
      - Q219562
@@ -8,6 +10,7 @@
      - Q220289
      - Q192017
      - Q237128
+     - Q49258
 
 ### ==Boulder=={flyto:Q192517}
 
@@ -17,14 +20,14 @@ Boulder is a home rule city that is the county seat and most populous municipali
 
 Rocky Mountain National Park is an American national park located approximately 55 mi (89 km) northwest of Denver in north-central Colorado, within the Front Range of the Rocky Mountains. The park is situated between the towns of Estes Park to the east and Grand Lake to the west. The eastern and western slopes of the Continental Divide run directly through the center of the park with the headwaters of the Colorado River located in the park's northwestern region. The main features of the park include mountains, alpine lakes and a wide variety of wildlife within various climates and environments, from wooded forests to mountain tundra.
 
-### ==Bryce Canyon National Park=={flyto:Q219562}
-
-Bryce Canyon National Park is an American national park located in southwestern Utah. The major feature of the park is Bryce Canyon, which despite its name, is not a canyon, but a collection of giant natural amphitheaters along the eastern side of the Paunsaugunt Plateau. Bryce is distinctive due to geological structures called hoodoos, formed by frost weathering and stream erosion of the river and lake bed sedimentary rocks. The red, orange, and white colors of the rocks provide spectacular views for park visitors. Bryce Canyon National Park is much smaller and sits at a much higher elevation than nearby Zion National Park. The rim at Bryce varies from 8,000 to 9,000 feet (2,400 to 2,700 m).
-    
 ### ==Arches National Park=={flyto:Q223969}
 
 Arches National Park is a national park in eastern Utah, United States. The park is adjacent to the Colorado River, 4 miles (6 km) north of Moab, Utah. More than 2,000 natural sandstone arches are located in the park, including the well-known Delicate Arch, as well as a variety of unique geological resources and formations. The park contains the highest density of natural arches in the world.  The park consists of 310.31 square kilometres (76,680 acres; 119.81 sq mi; 31,031 ha) of high desert located on the Colorado Plateau. The highest elevation in the park is 5,653 feet (1,723 m) at Elephant Butte, and the lowest elevation is 4,085 feet (1,245 m) at the visitor center. The park receives an average of less than 10 inches (250 mm) of rain annually.  Administered by the National Park Service, the area was originally named a national monument on April 12, 1929, and was redesignated as a national park on November 12, 1971. The park received more than 1.6 million visitors in 2018.
 
+### ==Bryce Canyon National Park=={flyto:Q219562}
+
+Bryce Canyon National Park is an American national park located in southwestern Utah. The major feature of the park is Bryce Canyon, which despite its name, is not a canyon, but a collection of giant natural amphitheaters along the eastern side of the Paunsaugunt Plateau. Bryce is distinctive due to geological structures called hoodoos, formed by frost weathering and stream erosion of the river and lake bed sedimentary rocks. The red, orange, and white colors of the rocks provide spectacular views for park visitors. Bryce Canyon National Park is much smaller and sits at a much higher elevation than nearby Zion National Park. The rim at Bryce varies from 8,000 to 9,000 feet (2,400 to 2,700 m).
+    
 ### ==Grand Canyon National Park=={flyto:Q220289}
 
 Grand Canyon National Park, located in northwestern Arizona, is the 15th site in the United States to have been named as a national park. The park's central feature is the Grand Canyon, a gorge of the Colorado River, which is often considered one of the Wonders of the World. The park, which covers 1,217,262 acres (1,901.972 sq mi; 4,926.08 km2) of unincorporated area in Coconino and Mohave counties, received more than six million recreational visitors in 2017, which is the second highest count of all American national parks after Great Smoky Mountains National Park. The Grand Canyon was designated a World Heritage Site by UNESCO in 1979. The park celebrated its 100th anniversary on February 26, 2019.
@@ -40,6 +43,20 @@ Mesa Verde National Park is an American national park and UNESCO World Heritage 
 ### ==Colorado Springs=={flyto:Q49258}
 
 Colorado Springs is a home rule municipality in and the county seat of El Paso County, Colorado, United States. It is the largest city in El Paso County, with a population of 478,961 at the 2020 United States Census, a 15.02% increase since 2010. Colorado Springs is the second-most populous city and the most extensive city in the state of Colorado, and the 40th-most populous city in the United States. It is the principal city of the Colorado Springs metropolitan area and the second-most prominent city of the Front Range Urban Corridor. It is located in east-central Colorado, on Fountain Creek, 70 miles (113 km) south of Denver.  At 6,035 feet (1,839 m) the city stands over 1 mile (1.6 km) above sea level. Colorado Springs is near the base of Pikes Peak, which rises 14,115 feet (4,302.31 m) above sea level on the eastern edge of the Southern Rocky Mountains. The city is the largest city north of Mexico above 6000 feet in elevation.
+
+## Travel Plan
+
+| Day | Origin | Destination | Miles | Time |
+| ---- | --------- | ----------------- | --------- | ------- |
+| 1 | Denver | Boulder | 30 | 43 |
+| 3 | Boulder | Rocky Mountain National Park | 38 | 1:00 |
+| 4 | Rocky Mountain National Park | Arches National Park | 386 | 7:00 |
+| 5 | Arches National Park | Bryce Canyon National Park | 253 | 4:30 |
+| 6 | Bryce Canyon National Park | Grand Canyon National Park | 286 | 5:13 |
+| 8 | Grand Canyon National Park | Monument Valley | 175 | 3:07 |
+| 8 | Monument Valley | Mesa Verde National Park | 142 | 3:04 |
+| 9 | Mesa Verde National Park | Colorado Springs | 362 | 7:00 |
+| 11 | Colorado Springs | Denver | 71 | 1:16 |
 
 
 
