@@ -1,3 +1,5 @@
+.ve-header "National Parks Circle Tour" wc:Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg sticky
+
 # National Parks Circle Tour
 
 ## Destinations
