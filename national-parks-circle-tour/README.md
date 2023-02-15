@@ -26,7 +26,7 @@
 
 ==Colorado Springs=={flyto:Q49258}
 
-# Destinations
+## Destinations
 
 ## Boulder
 
