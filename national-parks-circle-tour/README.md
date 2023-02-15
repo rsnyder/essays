@@ -7,12 +7,12 @@
 .ve-map 38.51379,-108.85254 6 right sticky caption="National Parks Circle Tour"
     - Q192517
     - Q777183
-     - Q219562
-     - Q223969
-     - Q220289
-     - Q192017
-     - Q237128
-     - Q49258
+    - Q219562
+    - Q223969
+    - Q220289
+    - Q192017
+    - Q237128
+    - Q49258
 
 ### ==Boulder=={flyto:Q192517}
 
