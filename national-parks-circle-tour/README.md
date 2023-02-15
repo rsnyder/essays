@@ -46,23 +46,19 @@ Mesa Verde National Park is an American national park and UNESCO World Heritage 
 
 Colorado Springs is a home rule municipality in and the county seat of El Paso County, Colorado, United States. It is the largest city in El Paso County, with a population of 478,961 at the 2020 United States Census, a 15.02% increase since 2010. Colorado Springs is the second-most populous city and the most extensive city in the state of Colorado, and the 40th-most populous city in the United States. It is the principal city of the Colorado Springs metropolitan area and the second-most prominent city of the Front Range Urban Corridor. It is located in east-central Colorado, on Fountain Creek, 70 miles (113 km) south of Denver.  At 6,035 feet (1,839 m) the city stands over 1 mile (1.6 km) above sea level. Colorado Springs is near the base of Pikes Peak, which rises 14,115 feet (4,302.31 m) above sea level on the eastern edge of the Southern Rocky Mountains. The city is the largest city north of Mexico above 6000 feet in elevation.
 
-## Travel Plan
+## Itinerary
 
-| Day | Origin | Destination | Miles | Time |
-| ---- | --------- | ----------------- | --------- | ------- |
-| 1 | Denver | Boulder | 30 | 43 |
-| 3 | Boulder | Rocky Mountain National Park | 38 | 1:00 |
-| 4 | Rocky Mountain National Park | Arches National Park | 386 | 7:00 |
-| 5 | Arches National Park | Bryce Canyon National Park | 253 | 4:30 |
-| 6 | Bryce Canyon National Park | Grand Canyon National Park | 286 | 5:13 |
-| 8 | Grand Canyon National Park | Monument Valley | 175 | 3:07 |
-| 8 | Monument Valley | Mesa Verde National Park | 142 | 3:04 |
-| 9 | Mesa Verde National Park | Colorado Springs | 362 | 7:00 |
-| 11 | Colorado Springs | Denver | 71 | 1:16 |
-
-
-
-
-      
-
-      
+| Day | Activities | Origin | Destination | Miles | Time |
+| ---- | --------- | ----------------- | --------- | ------- | ---- |
+| 1 | Travel day | Ann Arbor | Boulder (via Denver) |  |  |
+| 2 | Explore Boulder |  |  |  |  |
+| 3 | Tour Rocky Mountain National Park | Boulder | Rocky Mountain National Park | 38 | 1:00 |
+| 4 | Tour Arches National Park | Rocky Mountain National Park | Arches National Park | 386 | 7:00 |
+| 5 | Tour Bryce Canyon National Park | Arches National Park | Bryce Canyon National Park | 253 | 4:30 |
+| 6 | Travel day | Bryce Canyon National Park | Grand Canyon National Park | 286 | 5:13 |
+| 7 | Explore Grand Canyon |  |  |  |  |
+| 8 | Visit Monument Valley and Mesa Verde | Grand Canyon National Park | Mesa Verde | 230 | 6:30 |
+| 9 | Travel day | Mesa Verde National Park | Colorado Springs | 362 | 7:00 |
+| 10 | Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) |  |  |  |  |
+| 11 | Travel Day | Colorado Springs | Denver | 71 | 1:16 |
+| 12 | Travel Day | Denver | Ann Arbor |  |  |
