@@ -8,14 +8,13 @@ Perfumes have been around for thousands of years. ==Mesopotamians=={Q8807346} ha
 
 .ve-media wc:Carum_carvi_-_Köhler–s_Medizinal-Pflanzen-172.jpg left height=530px width=350px
 
-
 While these two methods of scent extraction are still used today, they have notable limitations. *Distillation* is difficult to perform on more fragile materials. It is thus often reserved for hardier substances like cedar, ==caraway=={Q26811}, lemon, ==bergamot=={Q109196}, and other barks, leaves, seeds, and fruits which were better able to withstand the distillation process.  *Enfleurage* is labor intensive, expensive, and has a low yield. As a result, for most of history perfume was deployed in very specific circumstances: in religious ceremonies and by members of the upper class to mask poor hygiene or distinguish themselves from the rest of society. This changed in the latter half of the nineteenth century when, following a series of discoveries in the chemical, technological, and industrial spaces, perfume became an object accessible to the larger public and subsequently transformed from a marker of the elite into a widely distributed commodity of the middle class.
 
 ## Nineteenth-century Discoveries in Chemical Synthesis 
 
 The foundations for this transformation were laid in 1828, when Friedrich Wöhler, a German chemist, synthesized ==urea=={Q48318} by evaporating a solution of ammonium cyanate, thereby establishing that organic compounds could be synthesized from inorganic substances. By the 1870s, chemists were developing artificial scents like piperonal (which smells like ==heliotrope=={Q158082} flowers), ==coumarin=={Q111812} (the scent of freshly mown hay), vanillin (vanilla), and musk, first in smaller amounts in the lab and then in industrial bulk quantities in the 1880s. 
 
-.ve-map Q874 zoom=3 right
+.ve-map Q874 zoom=2 right
     - Q928
     - Q25396403
     - Q262
