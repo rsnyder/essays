@@ -11,27 +11,27 @@ Perfumes have been around for thousands of years. ==Mesopotamians=={Q8807346} ha
 
 While these two methods of scent extraction are still used today, they have notable limitations. *Distillation* is difficult to perform on more fragile materials. It is thus often reserved for hardier substances like cedar, ==caraway=={Q26811}, lemon, ==bergamot=={Q109196}, and other barks, leaves, seeds, and fruits which were better able to withstand the distillation process.  *Enfleurage* is labor intensive, expensive, and has a low yield. As a result, for most of history perfume was deployed in very specific circumstances: in religious ceremonies and by members of the upper class to mask poor hygiene or distinguish themselves from the rest of society. This changed in the latter half of the nineteenth century when, following a series of discoveries in the chemical, technological, and industrial spaces, perfume became an object accessible to the larger public and subsequently transformed from a marker of the elite into a widely distributed commodity of the middle class.
 
-##Nineteenth-century Discoveries in Chemical Synthesis 
+## Nineteenth-century Discoveries in Chemical Synthesis 
 
 The foundations for this transformation were laid in 1828, when Friedrich Wöhler, a German chemist, synthesized ==urea=={Q48318} by evaporating a solution of ammonium cyanate, thereby establishing that organic compounds could be synthesized from inorganic substances. By the 1870s, chemists were developing artificial scents like piperonal (which smells like ==heliotrope=={Q158082} flowers), ==coumarin=={Q111812} (the scent of freshly mown hay), vanillin (vanilla), and musk, first in smaller amounts in the lab and then in industrial bulk quantities in the 1880s. 
 
-The discovery with these new synthetic compounds paired with the introduction of steam power in perfume factories radically altered the perfume industry. Perfume manufacturers were no longer at the mercy of expensive and lengthy supply chains which imported ylang-ylang from the ==Philippines=={flyto:Q928,9}, Geranium from ==Réunion=={flyto:Q25396403,8} and ==Algeria=={Q262,8}, citron from ==Sri Lanka=={flyto:Q854,7}, and musk from ==musk-cats=={Q198342} in ==China=={flyto:Q148,10} to factories in the south of ==France=={flyto:Q142,8}. It was now not only possible, but faster and cheaper to produce fragrances at home. 
-
-.ve-map Q874 zoom=3
+.ve-map Q874 zoom=3 right
     - Q928
     - Q25396403
     - Q262
     - Q854
     - Q148
     - Q142
+    
+The discovery with these new synthetic compounds paired with the introduction of steam power in perfume factories radically altered the perfume industry. Perfume manufacturers were no longer at the mercy of expensive and lengthy supply chains which imported ylang-ylang from the ==Philippines=={flyto:Q928,9}, Geranium from ==Réunion=={flyto:Q25396403,8} and ==Algeria=={Q262,8}, citron from ==Sri Lanka=={flyto:Q854,7}, and musk from ==musk-cats=={Q198342} in ==China=={flyto:Q148,10} to factories in the south of ==France=={flyto:Q142,8}. It was now not only possible, but faster and cheaper to produce fragrances at home. 
 
-##Early Classifications of Perfume 
+## Early Classifications of Perfume 
 
 .ve-media wc:Try_Vio-Violet%2C_a_new_Lundborg_perfume._-_10559727344.jpg right height=500px width=350px
 
 Early classifications of scent had only a handful of categories with often vague or confusing labels. Some scent theorists proposed dividing odors into only two classes: agreeable and disagreeable. The Swedish botanist Carl Linnaeus (1707-1778) organized fragrances into seven categories: aromatic, fragrant, ambrosial, alliaceous (that is, relating to ==allium=={Q49391} plants like the onion), fetid, repulsive, and nauseous. French chemist Antoine-Francois de Fourcroy (1755-1809) suggested five categories of odor: “muquous,” “fugacious oily,” “volatile oily,” “aromatic and acid,” and “hydrosulphurous.”[^2] There were many issues with these proposed classification groups, which is likely why they were never employed in the perfume-manufacturing space. The perfumer Eugene Rimmel (1821-1887) declared these categories to be “more theoretical than practical,” especially since they did not allow specification for how the odoriferous groups related to one another.[^3]
 
-##Sound, Color, Fragrance: Synaesthetic Models for Scent 
+## Sound, Color, Fragrance: Synaesthetic Models for Scent 
 
 .ve-media left height=700px
     - default:https%3A//books.google.com/books/content%3Fid%3DoBMEAAAAQAAJ%26pg%3DPA79%26img%3D1%26zoom%3D3%26hl%3Den%26bul%3D1%26sig%3DACfU3U3M9YUnyywXSUUM0ubTuyPJVfk4Pg%26w%3D1025 
