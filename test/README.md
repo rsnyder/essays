@@ -1,105 +1,52 @@
-.ve-header "Bedroom in Arles" wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg position=top sticky
+.ve-header "Making Scents of Music" wc:Romantic_days_in_old_Boston;_the_story_of_the_city_and_of_its_people_during_the_nineteenth_century_(1922)_(14776271662).jpg "Smell, Synaesthesia, and Why We Talk About Fragrance 'Notes' Today" sticky
 
-# Bedroom in Arles
+# Making Scents of Music
 
-**Bedroom in Arles** (French: _La Chambre à Arles_; Dutch: _Slaapkamer te Arles_) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter ==Vincent van Gogh=={Q5582}.
+.ve-media wc:Sir_Lawrence_Alma-Tadema_-_The_Meeting_of_Antony_and_Cleopatra.jpg height=400px cover 4d3e808b4d3e808b4d3e808b right
 
-## The Paintings
+Perfumes have been around for thousands of years. ==Mesopotamians=={Q8807346} had incense and engaged in ritualistic uses of fragrance as early as 4000 BCE. Upper-class families in Ancient China wore scented beads and carried perfumed pouches. Cleopatra was said to have ==tantalized Marc Antony with Mendesian perfume=={zoomto:2,1719,1000,800,da25c726}, a concoction originating in the ancient city of ==Mendes=={Q1427162} made from desert date oil, myrrh, cinnamon, and pine resin.[^1] During these early periods, the two primary methods used to extract and preserve fragrance were ==*distillation*=={Q101017} and ==*enfleurage*=={Q900621}, processes which capture the essential oils of natural objects by heating the fragrant materials in water (*distillation*) or using fat, grease, oil, and butter to absorb the target scent (*enfleurage*). 
 
-Van Gogh's own title for this composition was simply **The Bedroom** (French: _La Chambre à coucher_). There are three authentic versions described in his letters, easily distinguishable from one another by the pictures on the wall to the right.[^1]
+.ve-media wc:Carum_carvi_-_Köhler–s_Medizinal-Pflanzen-172.jpg left height=530px width=350px
 
-The painting depicts van Gogh's bedroom at 2, Place Lamartine in ==Arles=={Q48292}, Bouches-du-Rhône, France, known as the ==Yellow House=={Q2200610}. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right.
 
-### First Version
+While these two methods of scent extraction are still used today, they have notable limitations. *Distillation* is difficult to perform on more fragile materials. It is thus often reserved for hardier substances like cedar, ==caraway=={Q26811}, lemon, ==bergamot=={Q109196}, and other barks, leaves, seeds, and fruits which were better able to withstand the distillation process.  *Enfleurage* is labor intensive, expensive, and has a low yield. As a result, for most of history perfume was deployed in very specific circumstances: in religious ceremonies and by members of the upper class to mask poor hygiene or distinguish themselves from the rest of society. This changed in the latter half of the nineteenth century when, following a series of discoveries in the chemical, technological, and industrial spaces, perfume became an object accessible to the larger public and subsequently transformed from a marker of the elite into a widely distributed commodity of the middle class.
 
-Van Gogh started the first version during mid October 1888 while staying in Arles, and explained his aims and means to his brother Theo:
+##Nineteenth-century Discoveries in Chemical Synthesis 
 
-.ve-media compare right caption="Comparing Sketch and Painting"
-    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg right
-    - wc:Vincent_van_Gogh_-_Vincent's_Bedroom_-_Lettersketch_17_October_1888.jpg
+The foundations for this transformation were laid in 1828, when Friedrich Wöhler, a German chemist, synthesized ==urea=={Q48318} by evaporating a solution of ammonium cyanate, thereby establishing that organic compounds could be synthesized from inorganic substances. By the 1870s, chemists were developing artificial scents like piperonal (which smells like ==heliotrope=={Q158082} flowers), ==coumarin=={Q111812} (the scent of freshly mown hay), vanillin (vanilla), and musk, first in smaller amounts in the lab and then in industrial bulk quantities in the 1880s. 
 
-> "This time it simply reproduces my bedroom; but colour must be abundant in this part, its simplification adding a rank of grandee to the style applied to the objects, getting to suggest a certain rest or dream. Well, I have thought that on watching the composition we stop thinking and imagining. I have painted the walls pale violet. The ground with checked material. The wooden bed and the chairs, yellow like fresh butter; the sheet and the pillows, lemon light green. The bedspread, scarlet coloured. The window, green. The washbasin, orangey; the tank, blue. The doors, lilac. And, that is all. There is not anything else in this room with closed shutters. The square pieces of furniture must express unswerving rest; also the portraits on the wall, the mirror, the bottle, and some costumes. The white colour has not been applied to the picture, so its frame will be white, aimed to get me even with the compulsory rest recommended for me. I have depicted no type of shade or shadow; I have only applied simple plain colours, like those in crêpes."[^2]
+The discovery with these new synthetic compounds paired with the introduction of steam power in perfume factories radically altered the perfume industry. Perfume manufacturers were no longer at the mercy of expensive and lengthy supply chains which imported ylang-ylang from the ==Philippines=={14.60352,120.96909,9}, Geranium from ==Réunion=={-21.10756,55.44525,8} and ==Algeria=={36.88401,3.04321,8}, citron from ==Sri Lanka=={7.12811,79.81023,7}, and musk from ==musk-cats=={Q198342} in ==China=={flyto:Q148,10} to factories in the south of ==France=={43.3072,4.07317,8}. It was now not only possible, but faster and cheaper to produce fragrances at home. 
 
-.ve-media wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg width=70%
+.ve-map Q874 zoom=3
+    - 14.60352,120.96909
+    - -21.10756,55.44525
+    - 36.88401,3.04321
+    - 7.12811,79.81023
+    - Q148
+    - 43.3072,4.07317
 
-Van Gogh included sketches of the composition in this letter as well as in a letter to Gauguin, written slightly later.[^3] In the letter, van Gogh explained that the painting had come out of a sickness that left him bedridden for days.[^4] This version has on the wall to the right miniatures of van Gogh's portraits of his friends Eugène Boch and Paul-Eugène Milliet. The portrait of ==Eugène Boch=={Q1373445} is called ==The Poet=={18424,26,3552,2816} and the portrait of ==Paul Eugène Milliet=={Q7232361} is called ==The Lover=={21999,1,2437,1932}.[^5] [^6]
+##Early Classifications of Perfume 
 
-### Second Version
+.ve-media wc:Try_Vio-Violet%2C_a_new_Lundborg_perfume._-_10559727344.jpg right height=500px width=350px
 
-In April 1889, van Gogh sent the initial version to his brother regretting that it had been damaged by the flood of the Rhône while he was interned at the Old Hospital in Arles. Theo proposed to have it relined and sent back to him in order to copy it. This "repetition" in original scale (Van Gogh's term was "répetition") was executed in September 1889. Both paintings were then sent back to ==Theo=={Q317188}.[^7] [^8] [^9]
+Early classifications of scent had only a handful of categories with often vague or confusing labels. Some scent theorists proposed dividing odors into only two classes: agreeable and disagreeable. The Swedish botanist Carl Linnaeus (1707-1778) organized fragrances into seven categories: aromatic, fragrant, ambrosial, alliaceous (that is, relating to ==allium=={Q49391} plants like the onion), fetid, repulsive, and nauseous. French chemist Antoine-Francois de Fourcroy (1755-1809) suggested five categories of odor: “muquous,” “fugacious oily,” “volatile oily,” “aromatic and acid,” and “hydrosulphurous.”[^2] There were many issues with these proposed classification groups, which is likely why they were never employed in the perfume-manufacturing space. The perfumer Eugene Rimmel (1821-1887) declared these categories to be “more theoretical than practical,” especially since they did not allow specification for how the odoriferous groups related to one another.[^3]
 
-### Third version
+##Sound, Color, Fragrance: Synaesthetic Models for Scent 
 
-In summer, 1889, Van Gogh finally decided to redo some of his "best" compositions in a smaller size (the term he used was réductions) for his mother and his sister Wil, The Bedroom was among the subjects he chose.[^10] These réductions, finished late in September 1889, are not exact copies.
+.ve-media left height=700px
+    - default:https%3A//books.google.com/books/content%3Fid%3DoBMEAAAAQAAJ%26pg%3DPA79%26img%3D1%26zoom%3D3%26hl%3Den%26bul%3D1%26sig%3DACfU3U3M9YUnyywXSUUM0ubTuyPJVfk4Pg%26w%3D1025 
+    - default:https%3A//books.google.com/books/content%3Fid%3DmeQPAAAAYAAJ%26pg%3DPA42%26img%3D1%26zoom%3D3%26hl%3Den%26bul%3D1%26sig%3DACfU3U1JQZVT3U1u4wcKJxDGURM4DIGXZA%26w%3D1025
 
-In The Bedroom, the miniature portrait to the left recalls van Gogh's Peasant of Zundert self-portrait. The one to the right cannot be linked convincingly to any existing painting by van Gogh.
+It was not until the 1860s when the modern system of describing perfumes in terms of “notes” was established. In his foundational 1867 guide, *The Art of Perfumery*, G.W. Septimus Piesse (1820-1882) outlined observations on scent’s “immaterial powers.”[^4] Drawing comparisons between odor and other “imponderable agents”—namely, music and color—Piesse looked to scientific theories about musical synaesthesia. In 1845, the chemist George Field had published *Chromatics; or the Analogy, Harmony, and Philosophy of Colors* wherein he drew parallels between the way the eye processes color and the ear understands harmony. Outlining ways to achieve “melodies” and “harmonies” of color, Field arranged the notes of a musical scale to correspond to an organization of colors which resembled a rainbow, with *do* corresponding to Blue, *re* to Purple, and then Red, Orange, Yellow, Green, and Green (again) respectively up the ==musical scale=={Q159563}.[^5] The properties of color pairing and composition, Field argued, were analogous to those found in music theory. According to this theory, colorful “chords” which sound good to the ear would similarly appeal to the eye. The standard major triad of *do*, *mi*, *so*, for instance, translates into the three primary colors: blue, red, and yellow. 
 
-.ve-media
-    - wc:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
-    - wc:Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg
-    - wc:Vincent_van_Gogh_-_Van_Gogh's_Bedroom_in_Arles_-_Google_Art_Project.jpg
-    
-Click on any of the thumbnails above for a larger version of the image with deep-zoom and panning.  The image for version 1 (left) is especially high resolution, courtesy of the [Google Art Project](https://commons.wikimedia.org/wiki/Google_Art_Project).  This is a great image for casual exploration of the work.
+Piesse became fascinated by Field’s theories of musically harmonic color, interpreting the systems outlined in Chromatics as proof of the existence of a universal “law of harmony.” In accordance with this law, Piesse laid out his own proposal for a harmony of odors organized around what he called an *odophone*:
 
-### Provenance
+>*“Scents, like sounds, appear to influence the olfactory nerve in certain definite degrees. There is, as it were, an octave of odors like an octave in music; certain odors coincide, like the keys of an instrument."[^6]*
 
-- The first version never left the artist's estate. Since 1962, it has been in the possession of the Vincent van Gogh Foundation, established by Vincent Willem van Gogh, the artist's nephew, and on permanent loan to the [Van Gogh Museum](https://en.wikipedia.org/wiki/Van_Gogh_Museum), Amsterdam.
-- The second version has, since 1926, been the possession of the [Art Institute of Chicago](https://en.wikipedia.org/wiki/Art_Institute_of_Chicago) as part of the [Helen Birch Bartlett Memorial Collection](https://en.wikipedia.org/wiki/Helen_Birch_Bartlett_Memorial_Collection).
-- The third version, formerly in the possession of Van Gogh's sister Wil and later acquired by Prince [Matsukata](https://en.wikipedia.org/wiki/Matsukata_Masayoshi), entered the French national collections in 1959, following the French-Japanese peace settlement, and is on permanent display in the [Musée d'Orsay](https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay), Paris.
-- All three versions of the Bedroom were brought together for an exhibition entitled Van Gogh's Bedrooms at the Art Institute of Chicago in 2016. The exhibition featured related works as well as a digital reconstruction of his bedroom.[^11] [^12]
-
-## Anatomy of an Artwork
-
-.ve-video https://www.youtube.com/watch?v=q8abIqDaqvE right
-
-This episode of "Anatomy of an Artwork" (YouTube video uploaded by [Sotheby's](https://www.youtube.com/@sothebys)), provides a guided tour of the painting and context in which it was created.  A few clips of note are linked below: 
-
-- ==The "Yellow House" and location of van Gogh's Bedroom=={74}
-- ==The Sketch=={89}
-- ==Paintings perspective=={160}
-
-## Arles
-
-.ve-map Q48292 5 right
-    - Q48292
-    - 43.68217,4.63251
-
-**Arles** is a coastal city and commune in the South of France, a subprefecture in the Bouches-du-Rhône department of the Provence-Alpes-Côte d'Azur region, in the former province of Provence.
-
-Many artists have lived and worked in this area because of the southern light, including ==Pablo Picasso=={Q5593}, ==Paul Gauguin=={Q37693}, ==Jacques Réattu=={Q3159943}, and ==Peter Brown=={Q7172987}. 
-
-Vincent van Gogh lived in Arles from 1888 to 1889, and produced over 300 paintings and drawings during his time there, including 
-
-- =="Van Gogh's Chair"=={Q1118295}, 
-- =="Café Terrace at Night"=={Q1025704}, 
-- =="The Yellow House"=={Q2200610}, and
--  the first in Van Gogh's series of =="Sunflowers"=={Q157541} paintings
-
-### The Yellow House
-
-The house was the right wing of ==2 Place Lamartine, Arles, France=={43.68217,4.63251,18}, where, on May 1, 1888, van Gogh rented four rooms. 
-
-.ve-media wc:Vincent_van_Gogh_-_The_yellow_house_('The_street').jpg left
-
-Van Gogh occupied two large ones on the ground floor to serve as an atelier (workshop) and kitchen, and on the first floor, two smaller ones facing Place Lamartine. 
-
-The window on the first floor nearest the corner with both shutters open is that of ==van Gogh's guest room, where Paul Gauguin lived=={2444,1755,1730,1344,529bba37} for nine weeks from late October 1888. 
-
-Behind the next window, with shutters nearly closed, is ==van Gogh's bedroom=={2566,2019,1300,1010,b53cd661}. The two small rooms at the rear were rented by van Gogh at a later time.
-
-## References
-
-[^1]: Though the building was damaged in an air-raid, June 25, 1944, and laid down afterwards, floor plans by Lèon Ramser, an Arlesian architect, dating from the 1920s have survived and supply most of the essential information, see: Roland Dorn, "Décoration": Vincent van Goghs Werkreihe für das Gelbe Haus in Arles, Georg Olms Verlag, Hildesheim, Zürich & New York, 1990
-[^2]: ["Vincent van Gogh to Theo van Gogh : 16 October 1888"](https://www.webexhibits.org//vangogh/letter/18/554.htm). webexhibits.org.
-[^3]: ["Vincent van Gogh to Paul Gauguin : 17 October 1888"](https://www.webexhibits.org//vangogh/letter/18/B22.htm). webexhibits.org.
-[^4]: ["706"](https://web.archive.org/web/20160929173955/http://vangoghletters.org/vg/letters/let706/letter.html). vangoghletters.org. Archived from [the original](https://vangoghletters.org/vg/letters/let706/letter.html) on 2016-09-29. Retrieved 2014-04-16.
-[^5]: ["De minnaar (portret van luitenant Milliet) – Kröller-Müller Museum"](https://web.archive.org/web/20120418063608/http://www.kmm.nl/object/KM%20102.392/The-lover-portrait-of-Lieutenant-Milliet). kmm.nl. Archived from the original on 2012-04-18.
-[^6]:  ["Eugene Boch – Impressionist and friend of Vincent van Gogh"](https://eugeneboch.com/). eugeneboch.com.
-[^7]:  ["Vincent van Gogh to Theo van Gogh : 22 May 1889"](https://www.webexhibits.org//vangogh/letter/20/592.htm). webexhibits.org.
-[^8]:  ["Theo van Gogh to Vincent van Gogh : 16 June 1889"](https://www.webexhibits.org//vangogh/letter/20/T10.htm). webexhibits.org.
-[^9]:  ["Vincent van Gogh to Theo van Gogh : 5 or 6 September 1889"](https://www.webexhibits.org//vangogh/letter/20/604.htm). webexhibits.org.
-[^10]: ["Vincent van Gogh to Theo van Gogh : 28 September 1889"](https://www.webexhibits.org//vangogh/letter/20/608.htm). webexhibits.org.
-[^11]:  ["Van Gogh's Bedrooms"](https://www.artic.edu/exhibitions/1865/van-gogh-s-bedrooms). The Art Institute of Chicago.
-[^12]:  ["The Bedroom"](https://www.artic.edu/artworks/28560/the-bedroom). The Art Institute of Chicago.
-
-.ve-annotate
+Piesse argued that harmony and discord in fragrance could similarly be defined in perfumery by building “chords” of related odors. He directed perfumers to use the *odophone* to build their perfumes in correspondence with the rules of music theory and Field’s theory of color composition. Subsequent fragrance designers adopted Piesse's theories and came up with a framework of three layers: the "top notes," which are the scents most immediately noticeable; "heart notes," which appear just as the top notes are fading away; and "base notes," which form the foundation of the perfume and last the longest. This method of using a chord of "notes" is used by perfume houses all over the world today.
+[^1]: Jane Recker, "[Scientists Recreate Cleopatra's Favorite Perfume](https://www.smithsonianmag.com/smart-news/scientists-recreated-cleopatra-favorite-perfume-180980126/)," *Smithsonian Magazine* May 23, 2022.
+[^2]: Hippolyte Dussauce, *[A Practical Guide for the Perfumer](https://www.google.com/books/edition/A_practical_Guide_for_the_Perfumer_being/ADVdAAAAcAAJ?hl=en&gbpv=1)* (Philadelphia: Henry Carey Baird Industrial Publisher, 1868), 29.
+[^3]: Eugene Rimmel, "[On the Art of Perfumery, Its History, and Commercial Development,](https://www.jstor.org/stable/23851476)" *Journal of the Society of the Arts* May 18, 1860, 517-518.
+[^4]: G.W. Septimus Piesse, *[The Art of Perfumery](https://www.google.com/books/edition/The_Art_of_Perfumery_and_the_Methods_of/meQPAAAAYAAJ?hl=en&gbpv=1&dq=septimus+piesse+art+of+perfumery&printsec=frontcover)* (Philadelphia: Lindsay & Blakiston, 1867).
+[^5]: George Field, *[Chromatics; Or, the Analogy, Harmony, and Philosophy of Colours](https://www.google.com/books/edition/Chromatics/oBMEAAAAQAAJ?hl=en&gbpv=1)* (London: David Bogue, Fleet Street, 1845).
+[^6]: Piesse, *The Art of Perfumery,* 85.
