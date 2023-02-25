@@ -14,7 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Interview {.video-text .show-active}
 
-.ve-entities right sticky
 .ve-media-selector right
 
 ###
