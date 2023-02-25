@@ -1,7 +1,5 @@
 .ve-header "King in the Wilderness - Joan Baez interview" sticky
 
-.ve-add-hypothesis
-
 # King in the Wilderness - Joan Baez interview
 
 ```
@@ -16,8 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Interview {.video-text .show-active}
 
-
-.ve-map right sticky
+.ve-entities right sticky
 
 ###
 
