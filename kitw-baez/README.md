@@ -25,7 +25,7 @@ Can you just start telling us about the first time you met Doctor King, and what
 
 00:00:10:00	JOAN BAEZ:
 You know, the first time I saw Doctor King, I honestly don't remember whether I actually met him. He came to a high school gathering of kids from all over the country and we were all discussing world affairs. It was all about nonviolence. Every year they had a speaker, and that year was Doctor King. So, I just stood there and wept for the entire speech, because this man was doing what I had read about, you know, and studied about, and then all of the sudden there’s this person talking about the bus boycott, and people, you know, walking instead of riding. And so, it was everything I'd read about, was actually taking place. And I'm so overwhelmed still with that moment. I honestly don't remember whether I met him there. I was a sixteen-year-old kid along with all the rest of them. And I don't remember officially when I met him. I know it was at one of the conferences. We finally had a face to face. He cut out the time to do that. And we started doing a lot of joking, so it was a healthy way to begin.
-Q8027 Q9826 Q76611 Q861911
+Q8027 Q9826 Q76611 Q861911 https://www.youtube.com/watch?v=W4LT8-dEhJg
 
 00:01:17:00	TREY ELLIS:
 What kind of jokes? Were you intimidated, and then you met him as a jokester? Did he disarm you in that kind of way?
