@@ -16,9 +16,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### {.right .sticky}
 
-.ve-entities
+.ve-entities caption="Mentioned Entities"
 
-.ve-media-selector
+.ve-media-selector caption="Related Media"
 
 ###
 
