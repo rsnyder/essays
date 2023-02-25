@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### {.right .sticky}
 
-.ve-map
+.ve-map right
 
 ###
 
