@@ -49,7 +49,7 @@ So, let's talk about Grenada. Is that the first- and your experiences there, and
 
 00:02:50:00	JOAN BAEZ:
 My first experience in the south was nineteen sixty-one when I went there and gave concerts. And the contact actually said, and of course, I never looked at it, "Whites only." I was mortified. I went back the next year, sixty-two with that changed. Of course, no blacks came. They didn't know who I was. So, I went back the third year, and I sang in black campuses. And I was in fact singing at a- I was furious ‘cause I wanted to be in town in the middle of all the arrests. It was in Birmingham- which school is it? Miles? It was Miles and gave a concert there. So, I had already launched that feeling you get in the south when you're going to say something real.
-Q49042 Q3696 Q182832 Q169207 Q1620945 Q1403016
+Q985543 Q49042 Q3696 Q182832 Q169207 Q1620945 Q1403016
 
 00:03:38:00	TREY ELLIS:
 And, so what brought you and King to Grenada?
