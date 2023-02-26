@@ -97,6 +97,7 @@ Q7163219
 
 TREY ELLIS:
 We'll talk about Penn Center, and then Airlie House later. In Penn Center, well, Taylor Branch talks about it being that the SCLC was very divided then in South Carolina, and there were sort of fights. Were you privy to that? Did you have a feeling that these internal divisions of where to go next, and what to do?
+Q30106103
 
 00:09:34:00	JOAN BAEZ:
 Paying attention to the divisions, and the splits, at the conferences, there were internal power, you know, personal difficulties, and then there were the difficulty of how are we going to maintain what is our mission statement. Is it still nonviolence, or is it moving into something else? So, I think probably with the younger people, they were thinking about moving on, you know, meaning moving backwards. But- and then the other stuff, there were personal things, and you know about them, so I won't bother going into them. But, yeah, I mean, any conference of that type, and so high powered, and, you know, it just seems as though King was almost Doctor Martin Luther King by default. I mean, I don't think he necessarily wanted that position, but he got it. And he was for all of us the right person, and he took it seriously. He knew he was going to be killed.
@@ -128,7 +129,7 @@ I'll jump a little into Vietnam, and the sort of the schism or the where to go w
 
 00:13:47:00	JOAN BAEZ:
 Yeah. And then there I was in jail, you know, about the war. And when Doctor King came to visit me, I think he was barely- it was sixty-seven- barely getting his grounding as far as where he was going to be on the war. I mean, he knew where his heart was, but he also knew the criticism, and the splits that would happen the moment he said anything against the war in Vietnam. Of course, he did and that was the end of his relationship with the White House. You know, in a way, it’s good riddance, but it also it was, it devastated his work, and his- he needed, the things he needed. You know, I mean, I think that Riverside Church, he knew. That's when he really knew, is what I think.
-Q40357 Q8740 Q8027 Q2648 Q11696
+Q1156586 Q40357 Q8740 Q8027 Q2648 Q11696
 
 00:14:47:00	TREY ELLIS:
 And how did you feel when you read- and you heard that speech or read about it?
