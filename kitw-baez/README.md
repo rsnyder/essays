@@ -86,6 +86,7 @@ And how did you feel about walking down those streets with King and the kids?
 00:08:17:00	JOAN BAEZ:
 I was elated walking down the street with King and the kids, because I remember one of the, one of the- when I heard a preacher, it wasn't Birmingham, it was a place like that, a young preacher singing at midnight. His sermon was called “Singing at Midnight.” And it ended up saying, "Everybody’s going to join us, because this is where they're going to want to be." You know, this is anybody with any kind of ideals or desire to do something was going to come to be with us, because it was joyful, and it was strong, and it was full of music. And, and there was danger, and so what, you know?
 Q15631336 Q8027 Q7569 Q1423891 Q7366 Q638
+https://www.youtube.com/watch?v=qtLfWEk0Nko
 
 00:09:02:00	TREY ELLIS:
 We’ll jump to the Penn Center. Remember the strategy sessions in South Carolina?
