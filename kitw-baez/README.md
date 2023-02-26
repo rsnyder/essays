@@ -78,6 +78,7 @@ I thought at the ... Was there a time then when King was depressed, and Andy sen
 00:07:14:00	JOAN BAEZ:
 It was Grenada where Doctor King was really, really tired after coming in. And they had put him to bed in this, you know, the master bedroom, which was a small, humble, little, lovely place. And nobody wanted to wake him up, and he was due to speak, you know, at the church down the street. And he, you know, half an hour late, then an hour late, and then it even got beyond CPT, you know, it was- so nobody- they said, "Joan, you go in, and wake him up." And so, went into the room, and I just remember it was like looking at a chocolate drop on this pillow. Everything in the room was white, white doilies, white sheets, and there was black King. And so, I sang “Swing Low.” And he didn't wake up, he just rolled over, and he said, "Hmmmm. I believe I hear the sound of an angel. Let's have another one, Joan."
 Q985543 Q8027 Q5242962 Q153487 Q8027 Q7366
+https://www.youtube.com/watch?v=wZownF5y5AI
 
 00:08:12:00	TREY ELLIS:
 And how did you feel about walking down those streets with King and the kids?
