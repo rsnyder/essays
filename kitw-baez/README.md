@@ -63,10 +63,10 @@ Coming to Grenada after Chicago, and the sort of perceived defeat of Chicago? Pe
 
 00:05:26:00	JOAN BAEZ:
 You know, I honestly, don't remember much of that, but maybe ‘cause I was still in the glow, you know. I saw more of the people trying to extract power from him as in, you know, the Black Power, the Black Panther movement. And I mean, young people saying, "We've been oppressed for two hundred years." And I'd say, "How old are you?" You know, I got, I think, combative with that, because it takes off on its own freight train. And they're really young people, who hadn't kind of earned their position, I felt, to be gobbling that up. And in some of those situations, I was sort of made fun of, or- you know, "You don’t get it, girlfriend," and that kind of stuff. But I don't remember specifically him being talked about as depressed.
-Q8027 Q21260516 Q18950 Q252000
+Q21260516 Q8027 Q18950 Q252000
 
 00:06:22:00	TREY ELLIS:
-And h ow did if feel being a young white girl in this world of these people? And how were you treated?
+And how did if feel being a young white girl in this world of these people? And how were you treated?
 
 00:06:28:00	JOAN BAEZ:
 I was a young brown girl, probably in the world of his people. Well, the biggest compliment I ever had in the south was some kid. And we were at the church in probably Grenada, and I was singing, you know, a spiritual, “Break Bread Together,” or “Swing Low.” And some little black kid looked up at my friend and said, "Is she? I mean, does she got? I mean, is she?" He said, "Is she bla- Negro? Is she a Negro?" Said, "Maybe she is a little bit somewhere."
