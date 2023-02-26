@@ -33,6 +33,7 @@ Q8027 Q9826 Q76611 Q861911
 wc:Joan_Baez_1966.jpg
 flickr:7034493803
 https://www.youtube.com/watch?v=wZownF5y5AI
+https://www.youtube.com/watch?v=W8q6AZEdPxw
 
 00:01:17:00	TREY ELLIS:
 What kind of jokes? Were you intimidated, and then you met him as a jokester? Did he disarm you in that kind of way?
