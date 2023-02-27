@@ -10,7 +10,9 @@ July 27, 2017
 Total Running Time: 38 minutes
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.- 
+[King in the Wilderness](https://www.hbo.com/movies/king-in-the-wilderness) chronicles the final chapters of Dr. Martin Luther King Jr.’s life, revealing a conflicted leader who faced an onslaught of criticism from both sides of the political spectrum.
+
+Documentarians are only often able to use only a small percentage of the interviews they capture. In collaboration with Kunhardt Film Foundation, JSTOR Labs explored making full video interviews with historically significant figures available for educational purposes.  The output of that [exploratory project](https://labs.jstor.org/projects/interview-archive/) was an [interactive application](https://labs.jstor.org/interview/mlk) that connected the interview, video and transcripts to Wikidata entities and other relevant content.  This Juncture essay uses the [Joan Baez interview](https://labs.jstor.org/interview/mlk/interview/baez) to show how video, text (the interview transcript) can be linked and synchronized with Wikidata entities and other relevant resources in a similar way.
 
 ## Interview {.video-text .show-active}
 
@@ -23,6 +25,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ###
 
 .ve-video https://www.youtube.com/watch?v=W4LT8-dEhJg sticky
+
+### Transcript for Joan Baez's interview
+
+----
 
 00:00:00:00	TREY ELLIS:
 Can you just start telling us about the first time you met Doctor King, and what that was like, and how you felt?
@@ -41,11 +47,9 @@ What kind of jokes? Were you intimidated, and then you met him as a jokester? Di
 00:01:23:00	JOAN BAEZ:
 Um… No. That very first talk, I think we were both sort of a little bit intimidated maybe. Later on, I mean, his jokes, and Andy knows it too, they all know it, they would tell dirty jokes by the hour, by the hour. I went to pick up- I got- was allowed to go in the car full of lieutenants, there was Jesse, and Bevel, and Andy. And we went to pick up Doctor King. I think it was to bring him in to Grenada. And they had said, yeah, I could come along. I thought- ‘cause- huge demonstration planned for the next day. So, I went, and I thought, "Oh man, I’m really going to get the inside story on how they organize one of these things." They picked him up at the airport, and they told “n-” jokes from the airport to their favorite restaurant, where he ate everything you would think he would order, fried chicken, okra, potatoes, apple pie at the end. Got back in the car and continued until we got back to the conference. And I asked Andy later, I said, "Andy, I thought I was going to hear how your guys organize a march." He said, "You did."
 Q8027 Q8027 Q35874 Q959635 Q310586 Q1920456 Q1248784 Q11707 Q1420 Q15631336
-{data-start=00:01:23:00}
 
 00:02:35:00	TREY ELLIS:
 So, let's talk about Grenada. Is that the first- and your experiences there, and the resistance of segregation, once legally segregation was, and the resistance to legal segregation, and how difficult it was going to be.
-{data-start=00:02:35:00}
 
 00:02:50:00	JOAN BAEZ:
 My first experience in the south was nineteen sixty-one when I went there and gave concerts. And the contact actually said, and of course, I never looked at it, "Whites only." I was mortified. I went back the next year, sixty-two with that changed. Of course, no blacks came. They didn't know who I was. So, I went back the third year, and I sang in black campuses. And I was in fact singing at a- I was furious ‘cause I wanted to be in town in the middle of all the arrests. It was in Birmingham- which school is it? Miles? It was Miles and gave a concert there. So, I had already launched that feeling you get in the south when you're going to say something real.
@@ -371,3 +375,5 @@ Well, on the hope scale, I've never been very hopeful. On the other hand, I'm no
 Q190507 Q1062741 Q208160 Q76611
 
 00:38:51:00	END OF INTERVIEW
+
+.ve-spacer
