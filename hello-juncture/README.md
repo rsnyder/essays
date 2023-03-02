@@ -1,23 +1,24 @@
 # Hello, Juncture
 
-This example illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture  essay.
+This Juncture example shows you how you can use Juncture to create an interactive visual essay. This text could be anything that you’re passionate about, inspired by, researching, creating a resume for, or anything else you want to communicate to the world visually.  In this basic example a high-resolution image and interactive map are used.
 
-## Aulacophora indica
+## A deep zoom image
 
-.ve-media wc:The_Bug_Peek.jpg right
+.ve-media wc:Ginevra_de'_Benci_-_National_Gallery_of_Art.jpg right
 
-The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
+This is a high-resolution image from Wikimedia Commons.  The image is automatically created to an ==IIIF=={Q22682088} compatible format by Juncture.  The benefits provided by IIIF resources include zooming, panning, interoperability with other IIIF tools, annotation, and the ability to clearly articulate reuse rights and attribution.
 
-This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
+Image controls for the Juncture media viewer are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
 
-Image controls are located in the top-right corner of the image and can be seen when hovering over the image.  Controls are available for image zoom, rotation, full-screen viewing, and image repositioning.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
+Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
 
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes image title, description, attribution statement, and reuse rights.
+## An interactive map
 
-## Chitwan National Park, Nepal
+.ve-map Q214867 10 right marker
 
-.ve-map Q1075023 right
+Juncture maps are interactive and can be augmented with a variety of overlays including markers, GeoJSON shape files, and georeferenced images for historic maps.
 
-The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
+Similar to the media viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.
 
-An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
+
+
