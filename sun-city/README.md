@@ -7,6 +7,6 @@
     - Q3243593 layer="Bluffton" prefer-geojson disabled
     - Q1001134 layer="Hilton Head Island" prefer-geojson disabled
     - https://raw.githubusercontent.com/rsnyder/media/main/geojson/Sun_City,_Hilton_Head.geojson layer="Sun City" wc:Dell_Webb_Sun_City_Hilton_Head.jpg fillColor=red color=red weight=2 fillOpacity=0.1
-    - allmaps=3a88f7c6d07ff99e layer="New Development Map" disabled
+    - allmaps=3a88f7c6d07ff99e layer="Sun City North Map" disabled
     - 32.32366,-80.97063 "Home Site" layer="Home Site" zoom=16
 
