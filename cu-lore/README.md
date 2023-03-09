@@ -33,7 +33,13 @@
 
 # 1.1 Module Overview {#overview}
 
+.ve-media gh:lore3581/da4a-juncture/bibliography-essay/Interdisciplinarity-in-Data-Science-Pedagogy.png static right caption="Interdisciplinarity in Data Science Pedagogy"
+
 Data Literacy commonly refers to the ability to read, analyze, communicate, and work with data. This module argues that data literacy cannot be obtained without also learning how to interrogate data--to understand its complicated relations to power, privilege, oppression, and liberation. This module thus pushes participants to ask critical questions about data as it functions in our contemporary moment. What is “data” and what counts as “data”? Who typically does and does not make data? Who is data typically for and not for? Who is typically included and not included in data? What rhetorical functions do data have? How do various disciplines, companies, and organizations benefit from data? How does data impact minoritized people? Such questions are especially important for doing data advocacy in ethical and just ways. This module thus offers a theoretical understanding of data in order to help you develop a strong rhetorical and ethical foundation from which to take up this important practice.
+
+Through this module, students will be able to:
+
+- define data and data justice from a data feminist perspective
 
 # Learning Outcomes {#outcomes}
 
@@ -78,9 +84,3 @@ Through this module, students will engage with the following texts either in the
 # 1.7 Assessment {#assessment}
 
 # 1.8 Bibliography {#bibliography}
-
-Through this module, students will be able to:
-
-- define data and data justice from a data feminist perspective
-
-.ve-media gh:lore3581/da4a-juncture/bibliography-essay/Interdisciplinarity-in-Data-Science-Pedagogy.png
