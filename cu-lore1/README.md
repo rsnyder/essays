@@ -1,26 +1,11 @@
 .ve-style https://fonts.googleapis.com/css?family=Montserrat
 
 <style>
-    #juncture {
-      font-family: Montserrat;
-    }
-    #juncture h1 {
-        color: #BF0A31;
-    }
-    #juncture .overview {
-        background: #eee;
-        margin: 6px 0;
-    }
-    #concepts ul {
-        columns: 3;
-        -webkit-columns: 3;
-        -moz-columns: 3;
-    }
-    #juncture .contents li,
-    #readings li {
-        margin: 0;
-    }
-
+    #juncture { font-family: Montserrat; }
+    #juncture h1 { color: #BF0A31; }
+    #overview { background: #eee; margin: 6px 0; }
+    #concepts ul { columns: 3; -webkit-columns: 3; -moz-columns: 3; }
+    #juncture .contents li, #readings li { margin: 0; }
 </style>
 
 .ve-header "Module 1: Defining and Interrogating Data" background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg subtitle="Compiled by Dr. Laurie Gries"
