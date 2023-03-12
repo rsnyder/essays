@@ -64,7 +64,7 @@ Colorado Springs is the second-most populous city (478,961) and the most extensi
 
 ### Itineraries
 
-#### Itinerary 1
+#### Itinerary 1 (14 days)
 
 | Day | Activities | Travel |
 | --: | ----------  | ----------- |
@@ -82,3 +82,17 @@ Colorado Springs is the second-most populous city (478,961) and the most extensi
 | 12 | Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) |  |
 | 13 | Explore Colorado Springs area (morning) | Colorado Springs to Denver, 71mi (1:30) |
 | 14 |  | Denver to Home |  |
+
+#### Itinerary 2 (9 days)
+
+| Day | Activities | Travel |
+| --: | ----------  | ----------- |
+| 1 |  | Home to Boulder (via Denver) |
+| 2 | Explore Rocky Mountain National Park | Boulder to Rocky Mountain NP, 38mi (1:00) |
+| 3 |  | Rocky Mountain NP to Arches NP, 386mi (7:00) |
+| 4 | Explore Arches National Park |  |
+| 5 |  | Arches NP to Grand Canyon NP,  340mi (6:00) |
+| 6 | Explore Grand Canyon |  |
+| 7 | Drive through Monument Valley on way to Colorado Springs| Grand Canyon NP to Colorado Springs, 653mi (11:30) |
+| 8 | Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) |  |
+| 9 |  | Denver to Home |  |
