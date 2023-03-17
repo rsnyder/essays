@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "A hanging thing",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/31dc7dc2e20f39211673df523cbb32a3.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3042.669677734375,2164.914306640625,245.49072265625,329.126708984375"
+      },
+      "id": "68ee85a1"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a9bc13e6"
+  }
+]
