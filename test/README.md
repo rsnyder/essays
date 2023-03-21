@@ -1,6 +1,6 @@
 Q223969
 
-.ve-header
+.ve-header sticky
 
 # Arches National Park
 
