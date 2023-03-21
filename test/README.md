@@ -4,7 +4,8 @@ Q223969
 
 # Arches National Park
 
-.ve-media
+.ve-media right
+
 Arches National Park is a United States national park located in eastern Utah, near the city of Moab. The park is renowned for its incredible sandstone arches and geological formations. With more than 2,000 documented arches, it offers visitors a unique and unforgettable experience.
 
 The park covers an area of 76,679 acres (31,031 hectares) and features a wide range of terrain, including desert, canyons, and towering rock formations. The landscape has been shaped by millions of years of erosion and weathering, resulting in the dramatic natural features that attract visitors from around the world.
