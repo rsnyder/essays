@@ -1,4 +1,4 @@
-.ve-header "National Parks Circle Tour" wc:Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg sticky
+.ve-header "Snyder Family Vacation, 2023" wc:Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg sticky
 
 ##
 
