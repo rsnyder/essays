@@ -62,37 +62,19 @@ Mesa Verde National Park is a national park and UNESCO World Heritage Site locat
 
 Colorado Springs is the second-most populous city (478,961) and the most extensive city in the state of Colorado It is located in east-central Colorado, on Fountain Creek, 70 miles south of Denver.  At 6,035 feet the city stands over 1 mile above sea level. Colorado Springs is near the base of ==Pikes Peak=={Q665321}, which rises 14,115 feet above sea level on the eastern edge of the Southern Rocky Mountains. The city is the largest city north of Mexico above 6000 feet in elevation.
 
-### Itineraries
+### Itinerary (10 days)
 
-#### Itinerary 1 (14 days)
+#### Itinerary 2 
 
-| Day | Activities | Travel |
+| Day | Travel | Activities |
 | --: | ----------  | ----------- |
-| 1 |  | Home to Boulder (via Denver) |
-| 2 | Explore Boulder |  |
-| 3 | Explore Rocky Mountain National Park | Boulder to Rocky Mountain NP, 38mi (1:00) |
-| 4 |  | Rocky Mountain NP to Arches NP, 386mi (7:00) |
-| 5 | Explore Arches National Park |  |
-| 6 | Explore Bryce Canyon National Park (afternoon) | Arches NP to Bryce Canyon NP, 253mi (4:30) |
-| 7 | Explore Bryce Canyon National Park (morning) | Bryce Canyon NP to Grand Canyon NP, 286mi (5:30) |
-| 8 | Explore Grand Canyon |  |
-| 9 | Drive through Monument Valley on way to Mesa Verde | Grand Canyon NP to Mesa Verde NP, 230mi (6:30) |
-| 10 | Explore Mesa Verde |  |
-| 11 |  | Mesa Verde NP to Colorado Springs, 362mi (7:00) |
-| 12 | Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) |  |
-| 13 | Explore Colorado Springs area (morning) | Colorado Springs to Denver, 71mi (1:30) |
-| 14 |  | Denver to Home |  |
-
-#### Itinerary 2 (9 days)
-
-| Day | Activities | Travel |
-| --: | ----------  | ----------- |
-| 1 |  | Home to Boulder (via Denver) |
-| 2 | Explore Rocky Mountain National Park | Boulder to Rocky Mountain NP, 38mi (1:00) |
-| 3 |  | Rocky Mountain NP to Arches NP, 386mi (7:00) |
-| 4 | Explore Arches National Park |  |
-| 5 |  | Arches NP to Grand Canyon NP,  340mi (6:00) |
-| 6 | Explore Grand Canyon |  |
-| 7 | Drive through Monument Valley on way to Colorado Springs| Grand Canyon NP to Colorado Springs, 653mi (11:30) |
-| 8 | Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) |  |
-| 9 |  | Denver to Home |  |
+| 1 |  Travel to Boulder (via Denver) | Explore Boulder |
+| 2 | Travel from Boulder to Rocky Mountain NP, 38mi (1:00) | Explore Rocky Mountain National Park | 
+| 3 | Drive from Rocky Mountain NP to Arches NP, 386mi (6:30) | |
+| 4 | | Explore Arches National Park | 
+| 5 | Drive from Arches NP to Flagstaff,  325mi (5:30) | Explore Flagstaff |
+| 6 | Drive to Grand Canyon, 85mi (1:20) | Explore Grand Canyon |
+| 7 | Drive from Flagstaff to Durango, via Monument Valley, 344mi (6:00) | Explore Mesa Verde NP |
+| 8 | Drive from Durango to Colorado Springs, 320mi (5:30) |
+| 9 | | Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) | 
+| 9 |  Travel Home |  |
