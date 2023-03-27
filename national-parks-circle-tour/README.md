@@ -18,7 +18,7 @@
 
 ==Arches National Park=={flyto:Q223969}
 
-==Bryce Canyon National Park=={flyto:Q219562}
+==Flagstaff, AZ=={flyto:Q79842}
 
 ==Grand Canyon National Park=={flyto:Q220289}
 
@@ -42,10 +42,12 @@ Rocky Mountain National Park is located within the Front Range of the Rocky Moun
 
 Arches National Park is a national park adjacent to the Colorado River, 4 miles north of Moab, Utah.  More than 2,000 natural sandstone arches are located in the park, including the well-known ==Delicate Arch=={Q2300616}, as well as a variety of unique geological resources and formations. The park contains the highest density of natural arches in the world.  The park consists of 119.81 sq mi of high desert located on the Colorado Plateau. The highest elevation in the park is 5,653 feet at Elephant Butte, and the lowest elevation is 4,085 feet at the visitor center. The park receives an average of less than 10 inche of rain annually.
 
-### Bryce Canyon National Park
+### Flagstaff, Arizona
 
-Bryce Canyon National Park is located in southwestern Utah. The major feature of the park is Bryce Canyon, which despite its name, is not a canyon, but a collection of giant natural amphitheaters along the eastern side of the Paunsaugunt Plateau. Bryce is distinctive due to geological structures called ==hoodoos=={Q854550}, formed by frost weathering and stream erosion of the river and lake bed sedimentary rocks. The red, orange, and white colors of the rocks provide spectacular views for park visitors. The rim at Bryce varies from 8,000 to 9,000 feet.
-    
+Flagstaff is a city in, and the county seat of Coconino County, Arizona, in the southwestern United States. As of the 2020 United States census, the population was 76,831. Flagstaff's metropolitan area has a population of 145,101.
+
+Flagstaff lies near the southwestern edge of the Colorado Plateau and within the San Francisco volcanic field, along the western side of the largest contiguous ponderosa pine forest in the continental United States. The city sits at about 7,000 feet and is next to Mount Elden, just south of the San Francisco Peaks, the highest mountain range in the state of Arizona. Humphreys Peak, the highest point in Arizona at 12,637 feet, is about 10 miles north of Flagstaff in Kachina Peaks Wilderness. The geology of the Flagstaff area includes exposed rock from the Mesozoic and Paleozoic eras, with Moenkopi Formation red sandstone having once been quarried in the city; many of the historic downtown buildings were constructed with it. The Rio de Flag river runs through the city, but only flows in response to rain or snowmelt.
+
 ### Grand Canyon National Park
 
 Grand Canyon National Park is located in northwestern Arizona.  The park's central feature is the Grand Canyon, a gorge of the Colorado River, which is often considered one of the Wonders of the World. The park, which covers 1,901.972 sq mi of area in Coconino and Mohave counties, received more than six million recreational visitors in 2017.
@@ -72,7 +74,7 @@ Colorado Springs is the second-most populous city (478,961) and the most extensi
 | 2 | Travel from Boulder to Rocky Mountain NP, 38mi (1:00) | Explore Rocky Mountain National Park | 
 | 3 | Drive from Rocky Mountain NP to Arches NP, 386mi (6:30) | |
 | 4 | | Explore Arches National Park | 
-| 5 | Drive from Arches NP to Flagstaff,  325mi (5:30) | Explore Flagstaff |
+| 5 | Drive from Arches NP to Flagstaff,  325mi (5:30) | Explore Flagstaff in afternoon |
 | 6 | Drive to Grand Canyon, 85mi (1:20) | Explore Grand Canyon |
 | 7 | Drive from Flagstaff to Durango, via Monument Valley, 344mi (6:00) | Explore Mesa Verde NP |
 | 8 | Drive from Durango to Colorado Springs, 320mi (5:30) |
