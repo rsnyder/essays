@@ -5,20 +5,20 @@
 .ve-map 38.51379,-108.85254 6 right sticky
     - Q192517
     - Q777183
-    - Q219562
     - Q223969
+    - Q79842
     - Q220289
     - Q192017
     - Q237128
     - Q49258
 
-==Boulder=={flyto:Q192517}
+==Boulder=={flyto:Q192517,14}
 
 ==Rocky Mountain National Park=={flyto:Q777183}
 
 ==Arches National Park=={flyto:Q223969}
 
-==Flagstaff, AZ=={flyto:Q79842}
+==Flagstaff, AZ=={flyto:Q79842,16}
 
 ==Grand Canyon National Park=={flyto:Q220289}
 
@@ -44,8 +44,6 @@ Arches National Park is a national park adjacent to the Colorado River, 4 miles 
 
 ### Flagstaff, Arizona
 
-Flagstaff is a city in, and the county seat of Coconino County, Arizona, in the southwestern United States. As of the 2020 United States census, the population was 76,831. Flagstaff's metropolitan area has a population of 145,101.
-
 Flagstaff lies near the southwestern edge of the Colorado Plateau and within the San Francisco volcanic field, along the western side of the largest contiguous ponderosa pine forest in the continental United States. The city sits at about 7,000 feet and is next to Mount Elden, just south of the San Francisco Peaks, the highest mountain range in the state of Arizona. Humphreys Peak, the highest point in Arizona at 12,637 feet, is about 10 miles north of Flagstaff in Kachina Peaks Wilderness. The geology of the Flagstaff area includes exposed rock from the Mesozoic and Paleozoic eras, with Moenkopi Formation red sandstone having once been quarried in the city; many of the historic downtown buildings were constructed with it. The Rio de Flag river runs through the city, but only flows in response to rain or snowmelt.
 
 ### Grand Canyon National Park
@@ -66,17 +64,15 @@ Colorado Springs is the second-most populous city (478,961) and the most extensi
 
 ### Itinerary (10 days)
 
-#### Itinerary 2 
-
-| Day | Travel | Activities |
-| --: | ----------  | ----------- |
-| 1 |  Travel to Boulder (via Denver) | Explore Boulder |
-| 2 | Travel from Boulder to Rocky Mountain NP, 38mi (1:00) | Explore Rocky Mountain National Park | 
-| 3 | Drive from Rocky Mountain NP to Arches NP, 386mi (6:30) | |
-| 4 | | Explore Arches National Park | 
-| 5 | Drive from Arches NP to Flagstaff,  325mi (5:30) | Explore Flagstaff in afternoon |
-| 6 | Drive to Grand Canyon, 85mi (1:20) | Explore Grand Canyon |
-| 7 | Drive from Flagstaff to Durango, via Monument Valley, 344mi (6:00) | Explore Mesa Verde NP |
-| 8 | Drive from Durango to Colorado Springs, 320mi (5:30) |
-| 9 | | Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) | 
-| 9 |  Travel Home |  |
+| Day | Travel | Activities | Lodging |
+| --: | ----------  | ----------- | --------- |
+| 1 |  Travel to Boulder (via Denver), plane departs 8:35am, arrives 9:52am | Explore Boulder in the afternoon | [Hotel Boulderado](https://www.boulderado.com/)|
+| 2 | Breakfast at Lucile's; Travel to Rocky Mountain NP, 38mi (1:00) | Explore Rocky Mountain National Park | [Silver Moon Inn, Estes Park](https://www.silvermooninn.com/) |
+| 3 | Drive from Rocky Mountain NP to Arches NP, 386mi (6:30) | | [Springhill Suites, Moab, UT](https://www.marriott.com/en-us/hotels/cnyms-springhill-suites-moab/overview/) |
+| 4 | | Explore Arches National Park | [Springhill Suites, Moab, UT](https://www.marriott.com/en-us/hotels/cnyms-springhill-suites-moab/overview/) |
+| 5 | Drive from Arches NP to Flagstaff,  325mi (5:30) | Explore Flagstaff in afternoon | [Springhill Suites, Flagstaff, AZ](https://www.marriott.com/en-us/hotels/flgsh-springhill-suites-flagstaff/overview) |
+| 6 | Drive to Grand Canyon, 85mi (1:20) | Explore Grand Canyon | [Springhill Suites, Flagstaff, AZ](https://www.marriott.com/en-us/hotels/flgsh-springhill-suites-flagstaff/overview) |
+| 7 | Drive from Flagstaff to Durango, via Monument Valley, 344mi (6:00) | Explore Mesa Verde NP | [Homewood Suites, Durango, CO](https://www.hilton.com/en/hotels/drogshw-homewood-suites-durango-co/) |
+| 8 | Drive from Durango to Colorado Springs, 320mi (5:30) | | [Staybridge Suites, Colorado Springs, CO](https://www.staybridge.com/hotels/us/en/colorado-springs/cosaf/hoteldetail) |
+| 9 | Drive to Denver Airport at end of day, 71mi (1:05)| Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) | [Holiday Inn Express & Suites, Denver Airport](https://www.ihg.com/holidayinnexpress/hotels/us/en/denver/dentr/hoteldetail) |
+| 10 |  Travel Home, plane departs 6:15am, arrives Detroit 11:18am | | |
