@@ -18,7 +18,7 @@ Why did this new policy about maize inspire such strong reactions? Since its ==d
     - https://iiif.juncture-digital.org/manifest/4b8fbde277c01f1f3576f33022d93e20c28c9a0c8fb957ad124d6b93bb3dee54
     - https://iiif.juncture-digital.org/manifest/46768f98b59f62e9bb4a5629005fa630a75e3db81f2cfd3d98162ee7a1a9a057
 
-### A Kernel of Science
+## A Kernel of Science
 
 What is maize? How did it develop? These questions may seem simple, particularly given the ubiquity of corn-based products, but the large body of scholarship on the crop shows the answers to be anything but straightforward. Maize, in taxonomic parlance ==_Zea mays_=={Q11395} L., is a cereal grain consisting of a ==stalk=={663,1166,773,707}, ==tassels of pollen=={712,400,773,707}, and ==ears filled with cobs of kernels=={298,745,773,707} (averaging 800 kernels spread across 16 rows).
 
