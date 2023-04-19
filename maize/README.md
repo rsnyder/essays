@@ -14,7 +14,7 @@ While the law sought to regulate the use of particular ==maize=={Q11575} seeds e
 
 Why did this new policy about maize inspire such strong reactions? Since its ==domestication=={Q11395} over 9,000 years ago, achieved through the ingenuity and acumen of Mesoamerican communities, maize has provided necessary sustenance. In turn, these communities constructed their societies, cosmologies, and cultures around the plant. The Monsanto Law would dissolve this sacred symbiosis between local communities and maize. The history of maize thus demonstrates the complexities of human relationships to plants, which resist categorization solely as units to be bought, sold, or patented under capitalism.
 
-.ve-media
+.ve-media width=75%
     - https://iiif.juncture-digital.org/manifest/4b8fbde277c01f1f3576f33022d93e20c28c9a0c8fb957ad124d6b93bb3dee54
     - https://iiif.juncture-digital.org/manifest/46768f98b59f62e9bb4a5629005fa630a75e3db81f2cfd3d98162ee7a1a9a057
 
