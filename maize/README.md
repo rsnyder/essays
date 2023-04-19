@@ -12,13 +12,15 @@ While the law sought to regulate the use of particular ==maize=={Q11575} seeds e
     - https://iiif.juncture-digital.org/manifest/9c26fd58a60bcabade563be22d9bdfa930094f78efe1ae0e23fa5282183f9427
     - https://iiif.juncture-digital.org/manifest/91a2de2fd0637cb81778cee01643c63aae34406c3d521d7f6cb8b121398c1f19
 
-Why did this new policy about maize inspire such strong reactions? Since its ==domestication=={Q11395} over 9,000 years ago, achieved through the ingenuity and acumen of Mesoamerican communities, maize has provided necessary sustenance. In turn, these communities constructed their societies, cosmologies, and cultures around the plant. The Monsanto Law would dissolve this sacred symbiosis between local communities and maize. The history of maize thus demonstrates the complexities of human relationships to plants, which resist categorization solely as units to be bought, sold, or patented under capitalism.
 
 .ve-media right
     - https://iiif.juncture-digital.org/manifest/4b8fbde277c01f1f3576f33022d93e20c28c9a0c8fb957ad124d6b93bb3dee54
     - https://iiif.juncture-digital.org/manifest/46768f98b59f62e9bb4a5629005fa630a75e3db81f2cfd3d98162ee7a1a9a057
+    
+Why did this new policy about maize inspire such strong reactions? Since its ==domestication=={Q11395} over 9,000 years ago, achieved through the ingenuity and acumen of Mesoamerican communities, maize has provided necessary sustenance. In turn, these communities constructed their societies, cosmologies, and cultures around the plant. The Monsanto Law would dissolve this sacred symbiosis between local communities and maize. The history of maize thus demonstrates the complexities of human relationships to plants, which resist categorization solely as units to be bought, sold, or patented under capitalism.
 
-## A Kernel of Science
+
+### A Kernel of Science
 
 What is maize? How did it develop? These questions may seem simple, particularly given the ubiquity of corn-based products, but the large body of scholarship on the crop shows the answers to be anything but straightforward. Maize, in taxonomic parlance ==_Zea mays_=={Q11395} L., is a cereal grain consisting of a ==stalk=={663,1166,773,707}, ==tassels of pollen=={712,400,773,707}, and ==ears filled with cobs of kernels=={298,745,773,707} (averaging 800 kernels spread across 16 rows).
 
