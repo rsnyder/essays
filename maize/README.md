@@ -65,12 +65,15 @@ For the Maya, maize was and is more than simply a metaphor and powerful image in
 .ve-media https://iiif.juncture-digital.org/manifest/12d510f8ca7bd9f75c12ce847a6bd112c0928be873f2589c797ff848dc90a9f1 right
  
 ### Colonial and Postcolonial Eras
+
 During the colonial era, Maya beliefs in maize as a sacred plant clashed with European understandings of the crop. Spanish colonizers often publicly denigrated foods like maize as “dangerous to the European constitution.”[^ref15] But even as the Spanish publicly disdained maize, there is ample evidence that they recognized the utility—and scrumptiousness—of the crop. ==Inca Garcilaso de la Vega=={Q334711} (1539–1616) recounted how one group of conquistadors inhaled maize “as if it were sugared almonds.”[^ref16] Indeed, there are records of ==conquistadors=={Q126236} enjoying ==atole=={Q2312651}, a maize beverage, and eating puddings made of maize.[^ref17]
 
 .ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qXFTF6KY_htcJqVlZjSM_qZJvOyKdxXRaNGxkxbbluo&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=100% right
 
 From the nineteenth century onward, the crop began to attract the attention of scientists from Europe and the United States due to its productivity and economic potential as a domestic and export crop. In the early twentieth century, scientists from the United States and Europe traveled to regions in Mexico, Peru, and Guatemala, among others, to identify unique “landraces,” or locally adapted domesticates, of maize. Historian of science Helen Curry has detailed how scientists attempted to transpose putative science of the human race onto maize taxonomies: “At the most fundamental level, the raw material and motivation for classification arose directly from the imperative of ‘improvement’ in both crops and people.”[^ref18] These scientists presented a vision of “early, stable indigenous races, transformed by racial mixing with newly arriving populations from other geographical regions, giving rise to valuable new ‘incipient’ but still-unstable racial types.”[^ref19] 
 {#paragraph12}
+
+.ve-plant-specimen Q11575 max=3
  
 Bolstered in part by this racialized understanding of maize, scientists around the world began to breed maize for preferred traits, namely, quick growth and high productivity. In the 1940s, the ==Rockefeller Foundation=={Q862034} began to partner with the Mexican government to increase production rates of staple crops, including maize. These attempts to turn maize into a scientific commodity attracted both local and global concern: one American geographer noted that this endeavor proffered the potential “disastrous destruction of local genes.... Mexican agriculture cannot be pointed toward standardization on a few commercial types without upsetting native economy and culture hopelessly.”[^ref20] As one Mexican scientist detailed, some communities refused to sell types of maize used in rituals, no matter what price was offered.[^ref21]
 
@@ -86,6 +89,7 @@ Maize’s cultural, political, and economic significance persists in Central Ame
 .ve-iframe https://ourworldindata.org/grapher/urban-vs-rural-majority?tab=chart&country=~MEX
 
 ### Monsanto: Rise and Resistance
+
 As a result of the forces of globalization and industrialization, threats to maize diversity are more acute than ever. Since the 1940s, scientists have warned that “the whole genetic pattern of _Zea mays_... has been catastrophically overhauled.”[^ref23] The reduction of maize’s genetic diversity has been exacerbated since the 1990s, when Monsanto began to produce its transgenic maize products. Further, the passage of ==NAFTA=={Q181574} in 1994 meant that U.S. maize could be sold at incredibly cheap prices in Mexico. “The sheer amount of contamination from a very homogenous source drives diverse populations into narrow genetic backgrounds,” argued Ignacio Chapela, an ecologist at University of California, Berkeley.[^ref24] 	
 
 .ve-map 44.747810952859204,-13.410236017649687 2 right
