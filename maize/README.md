@@ -55,7 +55,6 @@ To obtain the utmost nutrients from maize, Mesoamericans practiced a process cal
 .ve-media grid
     - https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json"https://iiif.bodleian.ox.ac.uk/iiif/manifest/2fea788e-2aa2-4f08-b6d9-648c00486220.json seq=129
     - https://iiif.juncture-digital.org/manifest/36a7f60ef0720801d915c2ec7a86eb1fd89d3d403525fd38acc8be9a7cfdc13a
-    - manifest/36a7f60ef0720801d915c2ec7a86eb1fd89d3d403525fd38acc8be9a
 
 The nutritional importance of maize cannot be separated from its cultural significance. In the ==_Popol Vuh_=={Q220264}, which recounts the Maya creation story, humans were quite literally molded out of maize by the deities. Scholars have long recognized motifs of maize in ==Olmec=={Q135364} and Maya iconography. However, in the past four decades, scholars have begun to identify a specific “==Maize God=={Q12744013}” that has an “==elongated, tonsured head=={1273,834,669,591} [that] mimics the long tasseled cob,” and often has “maize grain ... infixed into his head,” among other qualities.[^ref11] While there is much about the Maize God that remains to be explained in the scholarly literature, it is clear “that the corn cycle was the central metaphor of life and death for the Maya and the nucleus around which much of their religiosity was formed.”[^ref12]
 
