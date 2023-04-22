@@ -4,27 +4,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "People",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/f13aeb28e511c90cdbdba82b991dad84.tif",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:1645.17626953125,2746.93896484375,663.060791015625,284.55126953125"
-      },
-      "id": "a1b7b9b2"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "471b1c64"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "New",
         "purpose": "commenting"
       }
