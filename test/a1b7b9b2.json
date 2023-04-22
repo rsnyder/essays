@@ -25,27 +25,6 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "another",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/f13aeb28e511c90cdbdba82b991dad84.tif",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:2403.958251953125,1917.13134765625,779.455078125,694.855712890625"
-      },
-      "id": "a1b7b9b2"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "59a918be"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
         "value": "another new",
         "purpose": "commenting"
       }
@@ -61,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "e67b23d5"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "another",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/f13aeb28e511c90cdbdba82b991dad84.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2522.9326171875,1203.2852783203125,779.455078125,694.855712890625"
+      },
+      "id": "a1b7b9b2"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "59a918be"
   }
 ]
