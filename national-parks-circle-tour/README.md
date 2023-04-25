@@ -67,12 +67,12 @@ Colorado Springs is the second-most populous city (478,961) and the most extensi
 | Day | Travel | Activities | Lodging |
 | --: | ----------  | ----------- | --------- |
 | 1 |  Travel to Boulder (via Denver), plane departs 8:35am, arrives 9:52am | Explore Boulder in the afternoon | [Hotel Boulderado](https://www.boulderado.com/)|
-| 2 | Breakfast at Lucile's; Travel to Rocky Mountain NP, 38mi (1:00) | Explore Rocky Mountain National Park | [Silver Moon Inn, Estes Park](https://www.silvermooninn.com/) |
-| 3 | Drive from Rocky Mountain NP to Arches NP, 386mi (6:30) | | [Springhill Suites, Moab, UT](https://www.marriott.com/en-us/hotels/cnyms-springhill-suites-moab/overview/) |
+| 2 | Breakfast at Lucile's; Explore Rocky Mountain NP, 112mi (3:45) | Explore Rocky Mountain National Park | [Silver Moon Inn, Estes Park](https://www.silvermooninn.com/) |
+| 3 | Drive from Rocky Mountain NP to Arches NP, 392mi (6:40) | | [Springhill Suites, Moab, UT](https://www.marriott.com/en-us/hotels/cnyms-springhill-suites-moab/overview/) |
 | 4 | | Explore Arches National Park | [Springhill Suites, Moab, UT](https://www.marriott.com/en-us/hotels/cnyms-springhill-suites-moab/overview/) |
-| 5 | Drive from Arches NP to Flagstaff,  325mi (5:30) | Explore Flagstaff in afternoon | [Springhill Suites, Flagstaff, AZ](https://www.marriott.com/en-us/hotels/flgsh-springhill-suites-flagstaff/overview) |
+| 5 | Drive from Arches NP to Flagstaff, via Monument Valley,  325mi (5:30) | Explore Flagstaff in afternoon | [Springhill Suites, Flagstaff, AZ](https://www.marriott.com/en-us/hotels/flgsh-springhill-suites-flagstaff/overview) |
 | 6 | Drive to Grand Canyon, 85mi (1:20) | Explore Grand Canyon | [Springhill Suites, Flagstaff, AZ](https://www.marriott.com/en-us/hotels/flgsh-springhill-suites-flagstaff/overview) |
-| 7 | Drive from Flagstaff to Durango, via Monument Valley, 344mi (6:00) | Explore Mesa Verde NP | [Homewood Suites, Durango, CO](https://www.hilton.com/en/hotels/drogshw-homewood-suites-durango-co/) |
+| 7 | Drive from Flagstaff to Durango, via Four Corners, 316mi (6:15) | Explore Mesa Verde NP | [Homewood Suites, Durango, CO](https://www.hilton.com/en/hotels/drogshw-homewood-suites-durango-co/) |
 | 8 | Drive from Durango to Colorado Springs, 320mi (5:30) | | [Staybridge Suites, Colorado Springs, CO](https://www.staybridge.com/hotels/us/en/colorado-springs/cosaf/hoteldetail) |
 | 9 | Drive to Denver Airport at end of day, 71mi (1:05)| Explore Colorado Springs area (Pikes Peak, Garden of the Gods, etc) | [Holiday Inn Express & Suites, Denver Airport](https://www.ihg.com/holidayinnexpress/hotels/us/en/denver/dentr/hoteldetail) |
 | 10 |  Travel Home, plane departs 6:15am, arrives Detroit 11:18am | | |
