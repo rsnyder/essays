@@ -1,4 +1,4 @@
-.ve-style /rsnyder/essays/test/custom.css
+.ve-style test/custom.css
 
 # A Top-Level Heading
 
