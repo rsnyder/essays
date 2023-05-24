@@ -1,4 +1,4 @@
-.ve-style test/custom.css
+.ve-style custom.css
 
 # A Top-Level Heading
 
