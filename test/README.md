@@ -1,3 +1,7 @@
+.ve-header "Header Example" background=#5A162E logo=https://raw.githubusercontent.com/juncture-digital/juncture/main/docs/images/juncture-logo.png sticky
+    - Menu Item 1
+    - Menu Item 2
+
 .ve-style custom.css
 
 # A Top-Level Heading
