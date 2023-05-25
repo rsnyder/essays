@@ -1,4 +1,4 @@
-.ve-header "Header Example" background=#5A162E logo=https://raw.githubusercontent.com/juncture-digital/juncture/main/docs/images/juncture-logo.png sticky
+.ve-header "Header Example" background=wc:Sunflower.jpg logo=https://raw.githubusercontent.com/juncture-digital/juncture/main/docs/images/juncture-logo.png height=200px sticky
     - Menu Item 1
     - Menu Item 2
 
