@@ -2,4 +2,8 @@
 
 .ve-media wc:The_Bug_Peek.jpg right
 
-Lorem ipsum dolor sit amet, ==consectetur=={ebdb0ce8} adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In this example we zoom and pan the image to ==focus on the bugs face=={1448,815,680,452}.
+
+In this next example a text interaction is used to ==show an annotation dialog=={ebdb0ce8}.
+
+In this last example, ==we do both=={1448,815,680,452,ebdb0ce8}, we zoom in on the image and open the comment dialog.
