@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "A cute face, for a bug",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/92d6312e99630e48b33b938b3b06580db817157b08dcaaa9edf2106f5471ef6d",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1483.7889404296875,848.8309936523438,609.1678466796875,419.58038330078125"
+      },
+      "id": "92d6312e"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ebdb0ce8"
+  }
+]
