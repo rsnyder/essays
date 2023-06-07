@@ -1,11 +1,9 @@
-<style>
-    body, #juncture {
-        background-color: #cae3ca;
-    }
-</style>
+# Image interaction examples
 
-# Rose
+.ve-media wc:Pachycereus_pringlei_forest.jpg right
 
-.ve-media wc:A_White_Rose_flower.jpg width=300px height=300px right
+1. ==Zoom=={4994,2317,1680,1122} to image region.
+2. ==Open annotation=={48b6f163}
+3. Open annotation and zoom to region
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
