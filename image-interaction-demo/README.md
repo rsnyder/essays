@@ -1,9 +1,7 @@
 # Image Interaction Demo
 
-.ve-media wc:Pachycereus_pringlei_forest.jpg
+.ve-media wc:Vincent_van_Gogh_-_The_yellow_house_('The_street').jpg width=75%
 
-1. ==Zoom to a region of interest=={5039,2311,1680,1120} in an image
-2. ==Open a text annotation=={b8f9de54}
-3. ==Open a text annotation and zoom=={3736,2393,1680,1120,b8f9de54} in on the image region containing the annotation
-
-
+- ==Van Gogh's bedroom=={2598,2156,866,671,11546495}
+- ==Paul Gauguin's bedroom=={381f0448}
+- ==People eating=={4367,2930,866,671}
