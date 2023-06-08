@@ -4,7 +4,7 @@
 
 ### Interactions
 
-1. Zoom in on ==train and bridge=={4379,2910,865,671}
+1. Zoom in on ==train and bridge=={5188,1897,1730,1342}
 1. Show annotations
     1. ==Van Gogh's bedroom=={f9c08bb8}
     1. ==Paul Gauguin's bedroom=={0578038d}
