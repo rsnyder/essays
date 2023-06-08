@@ -1,10 +1,19 @@
-# Image Interaction Demo
+# Van Gogh Paintings
 
-.ve-media wc:Farmhouse_in_Provence,_1888,_Vincent_van_Gogh,_NGA.jpg
+.ve-media grid
+    - wd:Q5435849
+    - wd:Q2200610
 
-- Heavy paint example
-- ==Haystacks=={aea0263d}
+## Farmhouse in Provence
 
-.ve-annotate
+Q5435849
+
+.ve-media
+
+## The Yellow House
+
+Q2200610
+
+.ve-media
 
 
