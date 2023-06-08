@@ -4,6 +4,27 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Bedroom reserved for Paul Gauguin",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/2c802ec6c8d95a5428ba3e6c4dc57865fa51927968f7befd4f4c7556b8a8e503",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3155.225830078125,2228.335205078125,402.127197265625,444.788818359375"
+      },
+      "id": "2c802ec6"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0578038d"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Van Gogh's bedroom.  Outside view of room depicted in the painting \"Bedroom in Arles\"",
         "purpose": "commenting"
       }
@@ -25,7 +46,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Bedroom reserved for Paul Gauguin",
+        "value": "Shadowy figures",
         "purpose": "commenting"
       }
     ],
@@ -34,11 +55,11 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:3155.225830078125,2228.335205078125,402.127197265625,444.788818359375"
+        "value": "xywh=pixel:4511.919921875,3147.66259765625,631.7763671875,368.743408203125"
       },
       "id": "2c802ec6"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "0578038d"
+    "id": "67ddfa4c"
   }
 ]
