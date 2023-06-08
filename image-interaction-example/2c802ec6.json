@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Van Gogh's bedroom.  Outside view of room depicted in the painting \"Bedroom in Arles\"",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/2c802ec6c8d95a5428ba3e6c4dc57865fa51927968f7befd4f4c7556b8a8e503",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2772.1630859375,2228.68115234375,343.14794921875,435.681884765625"
+      },
+      "id": "2c802ec6"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f9c08bb8"
+  }
+]
