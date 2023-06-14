@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#37f6d880-aa87-43ac-a694-281be21001e8"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "test 2",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/1b8ccc9f6faa52ee55b2f9ea5bdb7e3e0bdfc762cd81fdb823d900878299b1f1",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:4533.85986328125,988.7000122070312,1830.3486328125,846.5032348632812"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c17f505d-7d0b-4fd2-87b0-39b00724e7e1"
   }
 ]
