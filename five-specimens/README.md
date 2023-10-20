@@ -1,4 +1,4 @@
-   .ve-media https://iiif.archivelab.org/iiif/Spiraea_prunifolia_Sieb.andZucc./manifest.json right
+.ve-media https://iiif.archivelab.org/iiif/Spiraea_prunifolia_Sieb.andZucc./manifest.json right
 
 There are over 340,000 known flowering plant species, a lot to keep track of. With many species threatened by environmental change, it’s particularly important to document what is growing where. This is one of the functions of ==herbarium=={Q181916} specimens, preserved plants often in the form of pressed cuttings that have been collected since the 16th century. The technique now used is very similar to that originally employed:  a cutting is carefully spread out on absorbent paper, covered by another sheet, and pressed between boards so the plant doesn't curl up as it dries. A specimen can then last indefinitely if kept from the three most common threats: water, fire, and insects. Five examples are presented to tell the history of plant collecting and why herbaria are becoming more important in a number of ways.
 
