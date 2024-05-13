@@ -1,6 +1,4 @@
-[![](https://juncture-digital.github.io/juncture/static/images/ve-button.png)](https://www.juncture-digital.org)
-
-<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+[![](https://v3.juncture-digital.org/images/view.svg)](https://v3.juncture-digital.org) [![](https://v3.juncture-digital.org/images/edit.svg)](https://v3.juncture-digital.org/editor)
 
 <param ve-config 
   title="Amalfi" author="Ron" layout="vertical"
