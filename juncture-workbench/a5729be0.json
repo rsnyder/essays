@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "58645b13"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "File Actions",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://bxw3h77njs6t5nf7bo2vykqxvi0lzkxb.lambda-url.us-east-1.on.aws/iiif/3/2b46c4f3a40ab5473147a496f3cf1fdd32356dbde3a286dcd8df9481bbb66a98",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:497.58734130859375,201.0023193359375,245.782958984375,58.0399169921875"
+      },
+      "id": "a5729be0"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3a8152c9"
   }
 ]
