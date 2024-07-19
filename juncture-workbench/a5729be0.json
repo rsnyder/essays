@@ -40,26 +40,5 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "58645b13"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "Github File Selector",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://bxw3h77njs6t5nf7bo2vykqxvi0lzkxb.lambda-url.us-east-1.on.aws/iiif/3/2b46c4f3a40ab5473147a496f3cf1fdd32356dbde3a286dcd8df9481bbb66a98",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:0,127.09564208984375,1138.3629150390625,69.85408020019531"
-      },
-      "id": "a5729be0"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "f02f924b"
   }
 ]
