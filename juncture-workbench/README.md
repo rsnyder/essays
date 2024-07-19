@@ -2,3 +2,4 @@
 
 # Juncture Workbench
 
+`image Juncture_editor.png .right`
