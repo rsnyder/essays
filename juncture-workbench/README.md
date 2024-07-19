@@ -9,7 +9,7 @@ The Juncture Workbench includes 2 tools as an aid in creating visual essays.
 The workbench can be started in two ways:
 
 - Navigating to [https://v3.juncture-digital.org/wb](https://v3.juncture-digital.org/wb).  This is most easily doe by selecting the **Workbench** option from the top-level Juncture menu.  When opening the Workbench in this way the most recently edited file will appear in the editor.  Another file can be selected using the Github file selector toolbar at the top of the editor.
-- Clicking a button added to your Markdown file.  When Juncture essays are created from within the Juncture editor a Markdown link is automatically added to the top of the generated Markdown file.  When viewing the Markdown file from the Github site this link will appear as a button (![](https://v3.juncture-digital.org/images/wb.svg)) that when clicked will open the file in the Juncture Workbench editor.  Note that when launcing the Workbench in this way from browsers other than Chrome may require a one-time configuration of the browser to be used.  Where possible, it is recommended that Chrome be used for the Juncture Workbench.
+- Clicking a button added to your Markdown file.  When Juncture essays are created from within the Juncture editor a Markdown link is automatically added to the top of the generated Markdown file.  When viewing the Markdown file from the Github site this link will appear as a button (![](https://v3.juncture-digital.org/images/wb.svg)) that when clicked will open the file in the Juncture Workbench editor.  Note that when launcing the Workbench in this way from browsers other than Chrome may require a one-time configuration.  Where possible, it is recommended that Chrome be used for the Juncture Workbench.
 
 
 ## Editor
