@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "58645b13"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Github file selector",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://bxw3h77njs6t5nf7bo2vykqxvi0lzkxb.lambda-url.us-east-1.on.aws/iiif/3/2b46c4f3a40ab5473147a496f3cf1fdd32356dbde3a286dcd8df9481bbb66a98",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:7.476860046386719,117.93940734863281,1060.7472610473633,68.33816528320312"
+      },
+      "id": "a5729be0"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ac4dc01b"
   }
 ]
