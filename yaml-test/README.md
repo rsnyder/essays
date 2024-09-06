@@ -2,3 +2,4 @@
 
 # Yaml Test
 
+`image gh:rsnyder/media/michigan-up/Chapel_Rock.jpeg`
