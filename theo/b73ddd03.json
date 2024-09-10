@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Her famous \"smile\".",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://bxw3h77njs6t5nf7bo2vykqxvi0lzkxb.lambda-url.us-east-1.on.aws/iiif/3/2f81d633bfc975951f2347d58584ac971088f71b63a14d6eb4b16ebff9d67efb",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1109.5955810546875,1281.089111328125,330.1478271484375,104.4493408203125"
+      },
+      "id": "b73ddd03"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1ae04c9c"
+  }
+]
