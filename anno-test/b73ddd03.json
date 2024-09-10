@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The famous \"smile\".",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://bxw3h77njs6t5nf7bo2vykqxvi0lzkxb.lambda-url.us-east-1.on.aws/iiif/3/2f81d633bfc975951f2347d58584ac971088f71b63a14d6eb4b16ebff9d67efb",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1017.2557373046875,1211.60205078125,600.0548095703125,211.649169921875"
+      },
+      "id": "b73ddd03"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a4472759"
+  }
+]
