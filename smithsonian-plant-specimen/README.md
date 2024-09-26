@@ -2,6 +2,4 @@
 
 # Smithsonian Plant Specimen
 
-`image https://ids.si.edu/ids/manifest/NMNH-00067473 left`
-
-
+`image https://ids.si.edu/ids/manifest/NMNH-00067473 right`
