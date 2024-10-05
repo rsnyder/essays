@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Smile",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/2f81d633bfc975951f2347d58584ac971088f71b63a14d6eb4b16ebff9d67efb",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1016.8936157226562,1240.539794921875,568.1607055664062,244.87646484375"
+      },
+      "id": "2f81d633"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "83eb4849"
+  }
+]
