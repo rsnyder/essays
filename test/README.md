@@ -2,3 +2,11 @@
 
 # Test
 
+`ve-image cover`
+
+```
+ve-image cover key="kkk" key1="quoted arg" "some arg" navigation bla=bla bla="bla bla"
+```
+
+`ve-image cover`
+
