@@ -1,4 +1,4 @@
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+[![](https://v3.juncture-digital.org/edit.svg)](//editor.juncture-digital.org) [![](https://v3.juncture-digital.org/view.svg)](//v3.juncture-digital.org)
 
 <param ve-config 
   title="Amalfi" author="Ron" layout="vertical"
