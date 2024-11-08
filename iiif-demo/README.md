@@ -1,4 +1,4 @@
-[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+[![](//v3.juncture-digital.org/logo.png)](https://v3.juncture-digital.org)
 
 # Iiif Demo
 
