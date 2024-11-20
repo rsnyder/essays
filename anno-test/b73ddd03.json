@@ -171,5 +171,33 @@
         "id": "nuOrw21uQ4iK0nTTtIdV"
       }
     }
+  },
+  {
+    "id": "934bba9b",
+    "bodies": [],
+    "target": {
+      "annotation": "f9a435be-06a6-4772-b1bd-9c5f8bab1486",
+      "selector": {
+        "type": "RECTANGLE",
+        "geometry": {
+          "bounds": {
+            "minX": 578.77531614142,
+            "minY": 1406.1804350944553,
+            "maxX": 1112.4984496380655,
+            "maxY": 1538.5788891463621
+          },
+          "x": 578.77531614142,
+          "y": 1406.1804350944553,
+          "w": 533.7231334966455,
+          "h": 132.3984540519068
+        }
+      },
+      "creator": {
+        "isGuest": true,
+        "id": "DR7b7L5FDgMXcw600p7n"
+      },
+      "created": "2024-11-20T15:12:25.502Z",
+      "id": "b73ddd03"
+    }
   }
 ]
