@@ -15,9 +15,39 @@
         "conformsTo": "http://www.w3.org/TR/media-frags/",
         "value": "xywh=pixel:1017.2557373046875,1211.60205078125,600.0548095703125,211.649169921875"
       },
-      "id": "b73ddd03"
+      "id": "b73ddd03",
+      "annotation": "a4472759"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "a4472759"
+    "id": "a4472759",
+    "bodies": []
+  },
+  {
+    "id": "f10c1094",
+    "bodies": [],
+    "target": {
+      "annotation": "8cd29a5f-a8da-47b2-bdbe-2ea582599f10",
+      "selector": {
+        "type": "RECTANGLE",
+        "geometry": {
+          "bounds": {
+            "minX": 490.4781297923005,
+            "minY": 2360.102409237607,
+            "maxX": 996.4414771867397,
+            "maxY": 2508.0962753480662
+          },
+          "x": 490.4781297923005,
+          "y": 2360.102409237607,
+          "w": 505.9633473944392,
+          "h": 147.9938661104593
+        }
+      },
+      "creator": {
+        "isGuest": true,
+        "id": "mpmR1mVl2DYvz6jwL7WT"
+      },
+      "created": "2024-11-20T13:13:44.073Z",
+      "id": "b73ddd03"
+    }
   }
 ]
