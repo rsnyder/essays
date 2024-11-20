@@ -54,5 +54,33 @@
         "id": "28Oxr2O7Cu_rqK87bzhO"
       }
     }
+  },
+  {
+    "id": "b44e844c",
+    "bodies": [],
+    "target": {
+      "annotation": "e01f74b9-9d91-433a-84e0-67da310fccc3",
+      "selector": {
+        "type": "RECTANGLE",
+        "geometry": {
+          "bounds": {
+            "minX": 1065.3231546988525,
+            "minY": 2662.2078730326884,
+            "maxX": 1518.7130656023028,
+            "maxY": 3084.8282006658605
+          },
+          "x": 1065.3231546988525,
+          "y": 2662.2078730326884,
+          "w": 453.3899109034503,
+          "h": 422.6203276331721
+        }
+      },
+      "creator": {
+        "isGuest": true,
+        "id": "q1UcVW1l_K8Z8nfnqGb8"
+      },
+      "created": "2024-11-20T14:01:42.404Z",
+      "id": "b73ddd03"
+    }
   }
 ]
