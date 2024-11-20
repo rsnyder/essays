@@ -115,7 +115,7 @@
     "id": "095829d9",
     "bodies": [],
     "target": {
-      "annotation": "1f013e8a-a27b-4f96-8d78-3b27306f905e",
+      "annotation": "095829d9",
       "selector": {
         "type": "RECTANGLE",
         "geometry": {
@@ -136,6 +136,34 @@
         "id": "BhHKsPKhe5DyguIg8Ki0"
       },
       "created": "2024-11-20T14:36:42.117Z",
+      "id": "b73ddd03"
+    }
+  },
+  {
+    "id": "48769eff",
+    "bodies": [],
+    "target": {
+      "annotation": "7c59e683-6326-4c77-8493-8ffba2c1217d",
+      "selector": {
+        "type": "RECTANGLE",
+        "geometry": {
+          "bounds": {
+            "minX": 695.5405096095643,
+            "minY": 1725.8348923653177,
+            "maxX": 1062.5443591101696,
+            "maxY": 2189.5692248032715
+          },
+          "x": 695.5405096095643,
+          "y": 1725.8348923653177,
+          "w": 367.00384950060527,
+          "h": 463.73433243795375
+        }
+      },
+      "creator": {
+        "isGuest": true,
+        "id": "llbMBvMFSk8SoHAyuzrz"
+      },
+      "created": "2024-11-20T14:39:57.773Z",
       "id": "b73ddd03"
     }
   }
