@@ -87,7 +87,7 @@
     "id": "67f77de5",
     "bodies": [],
     "target": {
-      "annotation": "50a96d4f-062c-4725-94e4-fb2c29da7d7a",
+      "annotation": "67f77de5",
       "selector": {
         "type": "RECTANGLE",
         "geometry": {
@@ -108,6 +108,34 @@
         "id": "dt3IKPAiL49wMxxyqVOo"
       },
       "created": "2024-11-20T14:35:34.023Z",
+      "id": "b73ddd03"
+    }
+  },
+  {
+    "id": "095829d9",
+    "bodies": [],
+    "target": {
+      "annotation": "1f013e8a-a27b-4f96-8d78-3b27306f905e",
+      "selector": {
+        "type": "RECTANGLE",
+        "geometry": {
+          "bounds": {
+            "minX": 1126.1726931371036,
+            "minY": 995.0725020808106,
+            "maxX": 1687.3474197941857,
+            "maxY": 1339.704004615617
+          },
+          "x": 1126.1726931371036,
+          "y": 995.0725020808106,
+          "w": 561.1747266570821,
+          "h": 344.63150253480626
+        }
+      },
+      "creator": {
+        "isGuest": true,
+        "id": "BhHKsPKhe5DyguIg8Ki0"
+      },
+      "created": "2024-11-20T14:36:42.117Z",
       "id": "b73ddd03"
     }
   }
