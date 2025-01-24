@@ -1,4 +1,4 @@
-<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+<param ve-config layout="vertical" banner="wc:Mount_Ararat_and_the_Araratian_plain_(cropped).jpg">
 
 Shamans as mediating figures between humans and plant persons - a melding of worlds.
 <param ve-image
